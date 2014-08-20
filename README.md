@@ -1,4 +1,3 @@
-Legal-Synonyms
-==============
+# Legal-Synonyms
 
-Legally this is a synonym.txt for Solr Instances
+A synonym.txt for Solr Instances.
