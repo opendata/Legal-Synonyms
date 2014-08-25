@@ -1,6 +1,9 @@
 # OSX you offender
 .DS_Store
 
+# Oh, libre
+.~lock*
+
 # Typical Ruby
 *.gem
 *.rbc
