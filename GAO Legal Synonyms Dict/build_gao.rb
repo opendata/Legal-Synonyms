@@ -25,7 +25,7 @@ def purge_the_ocr_noise text_blob
   text_blob.gsub!(/\A-/, '')
 
   # fin
-  return text_blob
+  return text_blob.downcase
 end
 
 # the csv file has been built so that groupings are delimited by a blank line
@@ -42,10 +42,13 @@ def assemble_line_delimited_into_comma_delimited cleaned_synonyms
     end
     result
   end
+
+  # deal with some stray patterns and blank lines
   mapped_synonyms.gsub!(", \n", "\n")
   mapped_synonyms.gsub!(/, \z/, '')
   mapped_synonyms.gsub!("\n\n", '')
-  return mapped_synonyms.downcase!
+
+  return mapped_synonyms
 end
 
 file_to_process   = ARGV[0]
