@@ -17,13 +17,16 @@ if ARGV[0] == '--step-one'
   word_counts = Hash.new(0)
 
   files.each do |file|
-    words = File.read(files[0]).split(' ').reject{ |e| ! e[/^[a-zA-Z]+/] }.map{ |e| e.gsub(/(\W|\d)/, "") }
+    print "Parsing => #{file}.\n"
+    words = File.read(file) #.unpack("C*").pack("U*")
+    words = words.split(' ').reject{ |e| ! e[/^[a-zA-Z]+/] }.map{ |e| e.gsub(/(\W|\d)/, "") }
     words = words.each{ |e| e.downcase! }.reject{ |e| stops.include?(e) }
     words.each {|w| word_counts[w.downcase] += 1 }
     words = []
+    print "Done.\n"
   end
 
   words = word_counts.to_a.sort_by{ |e| e[1] }.reverse.map{ |e| e.join(', ') }
-  writer = File.join(File.dirname(__FILE__), "#{collc}.txt")
+  writer = File.join(File.dirname(__FILE__), "#{collc}-counts.txt")
   File.open(writer, 'w'){|f| f.write(words.join("\n"))}
 end
