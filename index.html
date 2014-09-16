@@ -9,7 +9,13 @@
       /*!
        * Create an array of word objects, each representing a word in the cloud
        */
-      $.parseJSON('uscode-counts.json');
+      var word_array = $.ajax({
+          url: "uscode-counts.json",
+          dataType: "text",
+          success: function(data) {
+              return $.parseJSON(data);
+          }
+      });
       $(function() {
         // When DOM is ready, select the container element and call the jQCloud method, passing the array of words as the first argument.
         $("#example").jQCloud(word_array);
