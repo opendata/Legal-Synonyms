@@ -20,7 +20,7 @@ if ARGV[0] == '--step-one'
   files.each do |file|
     print "Parsing =>\t#{file}.\t"
     words = File.read(file) #.unpack("C*").pack("U*")
-    words = words.split(' ').reject{ |e| e.length < 4 }.reject{ |e| ! e[/^[a-zA-Z]+/] }.map{ |e| e.gsub(/(\W|\d)/, "") }
+    words = words.split(' ').reject{ |e| ! e[/^[a-zA-Z]+/] }.map{ |e| e.gsub(/(\W|\d)/, "") }.reject{ |e| e.length < 4 }
     words = words.each{ |e| e.downcase! }.reject{ |e| stops.include?(e) }
     words.each {|w| word_counts[w] += 1 }
     words = []
