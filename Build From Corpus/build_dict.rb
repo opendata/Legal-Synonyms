@@ -1,4 +1,5 @@
 #! /usr/bin/env ruby
+require 'json'
 
 # step 0: find defs
 # step 1: tokenize into word bags
@@ -17,16 +18,21 @@ if ARGV[0] == '--step-one'
   word_counts = Hash.new(0)
 
   files.each do |file|
-    print "Parsing => #{file}.\n"
+    print "Parsing =>\t#{file}.\t"
     words = File.read(file) #.unpack("C*").pack("U*")
-    words = words.split(' ').reject{ |e| ! e[/^[a-zA-Z]+/] }.map{ |e| e.gsub(/(\W|\d)/, "") }
+    words = words.split(' ').reject{ |e| e.length < 4 }.reject{ |e| ! e[/^[a-zA-Z]+/] }.map{ |e| e.gsub(/(\W|\d)/, "") }
     words = words.each{ |e| e.downcase! }.reject{ |e| stops.include?(e) }
     words.each {|w| word_counts[w.downcase] += 1 }
     words = []
     print "Done.\n"
   end
 
-  words = word_counts.to_a.sort_by{ |e| e[1] }.reverse.map{ |e| e.join(', ') }
-  writer = File.join(File.dirname(__FILE__), "#{collc}-counts.txt")
-  File.open(writer, 'w'){|f| f.write(words.join("\n"))}
+  words     = word_counts.to_a.sort_by{ |e| e[1] }.reverse
+  words_txt = words.map{ |e| e.join(', ') }
+  words_jsn = words.reduce([]){ |r,e| r << { text: e[0], weight: e[1] }; r }
+  write_txt = File.join(File.dirname(__FILE__), "#{collc}-counts.txt")
+  write_jsn = File.join(File.dirname(__FILE__), "#{collc}-counts.json")
+  File.open(write_txt, 'w'){ |f| f.write(words_txt.join("\n")) }
+  File.open(write_jsn, 'w'){ |f| f.write(words_jsn.to_json) }
 end
+
