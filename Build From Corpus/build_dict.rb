@@ -22,7 +22,7 @@ if ARGV[0] == '--step-one'
     words = File.read(file) #.unpack("C*").pack("U*")
     words = words.split(' ').reject{ |e| e.length < 4 }.reject{ |e| ! e[/^[a-zA-Z]+/] }.map{ |e| e.gsub(/(\W|\d)/, "") }
     words = words.each{ |e| e.downcase! }.reject{ |e| stops.include?(e) }
-    words.each {|w| word_counts[w.downcase] += 1 }
+    words.each {|w| word_counts[w] += 1 }
     words = []
     print "Done.\n"
   end
@@ -31,8 +31,8 @@ if ARGV[0] == '--step-one'
   words_txt = words.map{ |e| e.join(', ') }
   words_jsn = words.reduce([]){ |r,e| r << { text: e[0], weight: e[1] }; r }
   write_txt = File.join(File.dirname(__FILE__), "#{collc}-counts.txt")
-  write_jsn = File.join(File.dirname(__FILE__), "#{collc}-counts.json")
+  write_jsn = File.join(File.dirname(__FILE__), "#{collc}-counts.js")
   File.open(write_txt, 'w'){ |f| f.write(words_txt.join("\n")) }
-  File.open(write_jsn, 'w'){ |f| f.write(words_jsn.to_json) }
+  File.open(write_jsn, 'w'){ |f| f.write('var word_array = ' + words_jsn.to_json.to_s) }
 end
 
