@@ -5,19 +5,9 @@
     <link rel="stylesheet" type="text/css" href="jqcloud.css" />
     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
     <script type="text/javascript" src="jqcloud-1.0.4.js"></script>
+    <script type="text/javascript" src="uscode-counts.js"></script>
     <script type="text/javascript">
-      /*!
-       * Create an array of word objects, each representing a word in the cloud
-       */
-      var word_array = $.ajax({
-          url: "uscode-counts.json",
-          dataType: "text",
-          success: function(data) {
-              return $.parseJSON(data);
-          }
-      });
       $(function() {
-        // When DOM is ready, select the container element and call the jQCloud method, passing the array of words as the first argument.
         $("#example").jQCloud(word_array);
       });
     </script>
