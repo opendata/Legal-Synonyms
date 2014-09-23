@@ -1,3 +1,7 @@
 source "https://rubygems.org"
 
 gem 'treat'
+gem 'redis'
+# gem 'pg'
+gem 'dm-postgres-adapter'
+gem 'data_mapper'
