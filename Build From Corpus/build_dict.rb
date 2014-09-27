@@ -219,7 +219,7 @@ if ARGV[0] == '--step-two'
   fi = 0
 
   #temp
-  files = [files[0]]
+  # files = [files[0]]
   files.each do |file|
     fi += 1
 
@@ -330,7 +330,8 @@ if ARGV[0] == '--step-three'
     counts = prepare_files_for_three(collc, files)
   end
 
-  counts = counts.reject{|e| e[1] <= 100 }
+  # counts = counts.reject{|e| e[1] <= 100 }
+  counts = counts[0..3999]
 
   DataMapper.setup(:default, "postgres://#{ARGV[2]}@localhost/legalsyn")
 
@@ -369,10 +370,53 @@ if ARGV[0] == '--step-three'
         next
       end
       if (Sim.all( word1: word, word2: counts[t] ) + Sim.all( word1: counts[t], word2: word )).empty?
-        sim = Sim.create( word1: word, word2: counts[t], dice: compare_cat_and_dog(word, counts[t]))
-        sim.save
+        begin
+          sim = Sim.create( word1: word, word2: counts[t], dice: compare_cat_and_dog(word, counts[t]))
+          sim.save
+        rescue
+          sim = Sim.create( word1: word, word2: counts[t], dice: 0.0)
+          sim.save
+        end
       end
       t += 1
     end
   end
+end
+
+# Finally.... Pull out whatcha need.
+if ARGV[0] == '--step-four'
+  require 'data_mapper'
+
+  DataMapper.setup(:default, "postgres://#{ARGV[3]}@localhost/legalsyn")
+
+  class Sim
+    include DataMapper::Resource
+
+    property :id,                 Serial
+    property :word1,              String
+    property :word2,              String
+    property :dice,               Float
+  end
+  DataMapper.finalize
+
+  syns     = Sim.all(:dice.gte => ARGV[1].to_f)
+  syns_out = syns.reduce({}) do |syn, e|
+    if syn[e.word1]
+      syn[e.word1] << e.word2
+    else
+      syn[e.word1] = [e.word2]
+    end
+    if syn[e.word2]
+      syn[e.word2] << e.word1
+    else
+      syn[e.word2] = [e.word1]
+    end
+    syn[e.word1] = syn[e.word1].uniq
+    syn[e.word2] = syn[e.word2].uniq
+    syn
+  end
+
+  syns_out = syns_out.map{|e| e.to_a.join(', ')}.join("\n")
+
+  File.open(ARGV[2], 'w'){|f| f.write(syns_out.to_s)}
 end
