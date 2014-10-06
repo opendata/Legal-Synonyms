@@ -77,3 +77,18 @@ To run step four on your corpus, type the following command:
 ```bash
 ruby ./build_dict.rb --step-four {{MIN_DICE_COEFFICIENT}} {{OUTPUT_SYN_FILE}} {{POSTGRES_USER}}:{{POSTGRES_PASS}}
 ```
+
+## Challenges
+
+There are a couple of areas where the script could use work. If you are a computational linguist please do help as we would love some assistance.
+
+* Step One could be modified slightly to use a different chunking algorithm. The script as it currently is situated uses a stop-word-less proximity measurement for chunking the full text into parseable word arcs. These arcs are then parsed according to their parts of speech and their location within the resulting trigram. The trigram is fairly rudimentary in that it is agnostic to paragraph and sentence structure simply using three word chunks from the text. In my testing, it was not efficient, using Treat to parse an entire Title of the US Code while making the NLP level of the stack knowledgeable of sentence and paragraph structure. The parsing overflowed memory even on my 16GB machine many times. Making the Treat layer understand only the chunked trigrams did ease this process significantly.
+* Step Two currently does not maintain a record of the files that it has parsed into the database. This is a problem I intend to fix very soon.
+* Step Three could be modified to use a different coefficient. The Dice Coefficient may not be the best metric for finding similarity in patterns. Indeed, there is a lot of research (some of which is included in the Research Directory of this Repository) and discussions within the computational linguistics space as to how to define the correct similarity coefficient. The Dice Coefficient has been used mostly because it is a common pattern that is fairly well established and modestly easy to code. Now that the script is fully parsing, some effort could be expended toward increasing the effectiveness of the similarity metric used.
+* Overall. Speed is a massive issue. This script takes an incredibly long time to complete its various parsing exercises and any assistance on refactoring to increase the speed would be welcome.
+
+## Contributing
+
+1. Fork
+2. Hack
+3. Pull Request
