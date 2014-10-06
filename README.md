@@ -14,7 +14,7 @@ The general idea of this repository is that any synonyms.txt file which is in th
   * **Status**: Ready
 * `synonyms.txt-gaoOasis` is drawn from the [1987 Legal Synonyms Document](http://gao.gov/products/OGC-87-6) published by the Government Accountability Office. Synonyms from that document have been OCR'ed, cleaned, and processed into a compatible synonyms.txt file.
   * **Status**: Ready
-* `synonyms-uscode-dice0.8.txt` is built from the USCode with a Dice coefficient of 0.8. Synonyms have been built using the script in the Build From Corpus directory of this repository.
+* `synonyms-uscode-diceX.X.txt` is built from the USCode with a Dice coefficient of X.X (a few have been outputed). Synonyms have been built using the script in the Build From Corpus directory of this repository.
   * **Status**: Semi-Ready
 
 # Usage
