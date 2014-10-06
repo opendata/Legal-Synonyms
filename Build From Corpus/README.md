@@ -1,0 +1,79 @@
+## Build From Corpus Script
+
+The script in this directory of the repository is a purpose built script which is meant to be the beginnings of a computational linguistics exercise that semi-automatically builds a `synonym.txt` file from a large corpus of documents. The script is not perfect; it is, however, usable.
+
+## Overview
+
+There are four steps required to process a large corpus of text into a useable synonyms file.
+
+**Step One** parses the text into word counts and into parts of speech arcs. The script uses Ruby's primary natural language processing (NLP) library, [Treat](https://github.com/louismullie/treat) to parse text into its parts of speech. The script, in step one, is given a directory of text files. It reads the files one by one, extracts out the stop words, counts all the words, then chunks the text into trigrams which are then processed using Treat. These results are written out to text files in a created `results` directory of the directory of text files which is provided to the script in step one.
+
+**Step Two** collates the resulting arcs into a postgres database. The text files in the `results/arcs` directory are collated into a singular arcs table in a `legal-syn` postgres database. On any significant corpus of documents, most computers will not have enough memory to sufficiently process the word arcs without using a database. Postgres, as a FOSS database, was chosen as the backbone of this collation exercise.
+
+**Step Three** calculates the dice coefficient of the top 4000 words (by word count) in the arcs database and writes the results into a `sim` table in the database.
+
+**Step Four** queries the sim table to find all word pairs about a given dice coefficient and writes those to a `synonyms.txt` file.
+
+Each of these four steps takes a great deal of time to process using the script as it is currently set up.
+
+## Installation
+
+To use this script, Ruby, MongoDB, Redis, and PostgresDB are required. When ruby is installed, clone this repository.
+
+Install the required dependencies using:
+
+```bash
+bundle install
+```
+
+After running `bundle install`, an additional -- and rather unusual -- step is required. From the terminal perform the following commands in order:
+
+```bash
+irb
+```
+
+```ruby
+require 'treat'
+Treat::Core::Installer.install 'english'
+exit
+```
+
+The `Treat::Core::Installer.install` command will take a while to complete. Once you exit from the irb session you will need to perform one more step, which is to place the Stanford Core NLP JARs into the right Gem directory. Follow the directions in the [Treat Manual](https://github.com/louismullie/treat/wiki/Manual#download-jars-and-models) to complete this process. This may or may not be taken care of by the install function.
+
+## Usage
+
+Before using the script you will need to set your `JAVA_HOME` environmental variable. If you are on Ubuntu that is easily done by typing the following from the command line:
+
+```bash
+export JAVA_HOME=/usr/lib/jvm/java-7-oracle
+```
+
+Then you are ready to begin stepping through your corpus of documents.
+
+To run step one on your corpus, type the following command:
+
+```bash
+ruby ./build_dict.rb --step-one {{DIRECTORY}}
+```
+
+Before running the command make sure that you have the JAVA_HOME environmental variable set as well as the Redis server running.
+
+To run step two on your corpus, type the following command:
+
+```bash
+ruby ./build_dict.rb --step-two {{DIRECTORY}} {{POSTGRES_USER}}:{{POSTGRES_PASS}}
+```
+
+Before running the command make sure that your postgres has a database named `legalsyn` and you have created an appropriate username and password for the script to access the database. The user should have sufficient rights to create tables and add and delete data to the tables in order for the script to run properly.
+
+To run step three on your corpus, type the following command:
+
+```bash
+ruby ./build_dict.rb --step-three {{DIRECTORY}} {{POSTGRES_USER}}:{{POSTGRES_PASS}}
+```
+
+To run step four on your corpus, type the following command:
+
+```bash
+ruby ./build_dict.rb --step-four {{MIN_DICE_COEFFICIENT}} {{OUTPUT_SYN_FILE}} {{POSTGRES_USER}}:{{POSTGRES_PASS}}
+```
