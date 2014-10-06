@@ -1,25 +1,25 @@
 secretary, federal, enforcement
 federal, secretary, pursuant, regulations, code, defined, rules, reauthorization
-enforcement, secretary, plan, security, amended, period, programs, commission, provide, prior
+enforcement, secretary, plan, security, amended, period, programs, commission, provide, prior, including
 state, display
 display, state, part
-pursuant, federal, security, amended, period, programs, commission, provide, prior
-regulations, federal, security, amended, period, programs, commission, provide, prior
-code, federal, paragraph, plan, security, amended, period, programs, commission, provide, prior
-defined, federal, plan, security, amended, period, programs, commission, provide, prior
-rules, federal, agency, plan, security, amended, period, programs, commission, provide
+pursuant, federal, security, amended, period, programs, commission, provide, prior, including
+regulations, federal, security, amended, period, programs, commission, provide, prior, including
+code, federal, paragraph, plan, security, amended, period, programs, commission, provide, prior, including
+defined, federal, plan, security, amended, period, programs, commission, provide, prior, including
+rules, federal, agency, plan, security, amended, period, programs, commission, provide, prior
 reauthorization, federal, programs
 services, commission, subscription
 commission, services, security, amended, period, programs, provide, prior, including, appropriate, housing, purposes, pursuant, energy, requirements, report, individual, described, development, means, referred, regulations, required, amendments, administrator, transportation, board, subparagraph, available, authorized, years, sections, authority, case, order, activities, department, insurance, applicable, research, within, government, administration, funds, text, through, inserted, application, welfare, individuals, payment, care, code, necessary, related, congress, except, system, time, financial, action, established, project, director, grant, local, provision, corporation, agencies, upon, into, credit, apply, later, office, bank, will, make, functions, committee, effect, grants, business, include, organization, standards, days, eligible, otherwise, used, accordance, during, lands, struck, relating, review, loan, interest, commerce, amounts, defined, benefits, sept, secs, property, extent, former, area, determined, contract, transfer, entity, only, references, payments, carry, fund, management, costs, first, safety, purpose, classified, agreement, institution, redesignated, court, facility, clause, following, enactment, facilities, words, generally, cost, persons, education, sentence, issued, beginning, repealed, members, company, determines, control, less, community, there, terms, same, protection, procedures, establish, basis, private, data, securities, designated, regulation, banks, training, those, president, member, trade, medical, projects, classification, officer, enforcement, number, defense, employees, submit, policy, conditions, existing, approved, determination, mortgage, original, without, banking, follows, specified, appropriated, water, require, subpar, support, rules, additional, thereof, technology, manner, emergency, exceed, providing, consumer, conduct, tables, reasonable, months, civil, unless, request, district, land, laws, appropriations, construction, rule, take, rate, covered, does, organizations, reserve, administrative, whether, were, contracts, annual, foreign, home, insured, study, account, based, read, requirement, against, association, omitted, when, personnel, paid, enacted, reports, certain, resources, source, compliance, transferred, areas, employee, carrier, subtitle, subsecs, violation, ensure, prescribed, special, final, attorney, systems, representatives, performance, entities, institutions, treatment, house, demonstration, carrying, operation, council, compensation, jurisdiction, below, establishment, making, preceding, submitted, authorization, loans, sale, advisory, qualified, proposed, investment, officers, standard, receive, recommendations, executive, least, received, vehicle, bureau, plans, duties, notwithstanding, between, determine, capital, access, meaning, equipment, approval, records, entitled, connection, regarding, actions, codification, savings, consultation, implementation, definitions, issue, until, statement, limitation, purchase, deemed, located, consistent, right, expenses, material, involved, employment, applicant, treasury, benefit, increase, center, participation, termination, assessment, written, prescribe, develop, obligations, needs, party, criteria, process, agreements, commissioner, reference, renumbered, opportunity, acts, filed, respectively, lease, senate, form, permit, evaluation, result, included, penalty, fees, also, group, repeal, calendar, directed, appointed, similar, because, receiving, funding, rates, conducted, ending, claim, operations, change, applications, exchange, labor, forth, further, centers, claims, considered, regulatory, planning, interior, nothing, among, includes, deposit, coordination, pars, patent, hearing, powers, another, assets, institute, level, directly, provides, given, limitations, consideration, certification, procedure, comply, eligibility, proceeding, materials, availability, comptroller, policies, registration, condition, liability, heading, acquisition, head, international, over, production, power, budget, failure, minimum, contained, directors, findings, formerly, assist, stock, both, taken, conservation, addition, improvement, force, place, distribution, activity, subsections, subsequent, limited, homeland, introductory, duty, participating, obligation, finds, name, judicial, disclosure, serve, status, maintain, record, second, expiration, response, implement, charges, guidelines, carried, proceedings, waiver, held, alaska, airport, practicable, concerning, committees, practices, authorities, evidence, capacity, either, affected, reclamation, cause, agent, thereafter, certificate, official, having, imposed, last, paragraphs, analysis, transaction, become, issuance, relevant, finance, aviation, item, decision, filing, interstate, aircraft, money, they, responsibility, reason, responsibilities, schedule, union, regional, carriers, consider, whom, mineral, continue, notification, extension, cooperation, responsible, engaged, representative, investigation, relief, receipt, must, interests, appointment, acting, factors, behalf, penalties, affairs, assistant, chairman, said, companies, orders, word, granted, operator, joint, publication, event, submission, particular, acquired, railroad, agriculture, definition, petition, transactions, exemption, financing, exercise, annually, historical, places, examination, permitted, governors, designation, matters, applies, parties, published, associations, file, country, concerned, passenger, thereto, discretion, perform, writing, pilot, supervision, inspection, settlement, notify, collected, matter, audit, modification, veterans, deposits, judgment, designate, vested, improvements, clarity, survey, disposition, issues, whenever, consult, pipeline, infrastructure, inspector, brought, branch, exception, then, patents, membership, accounts, approve, officials, mine, receiver, communications, offices, terminated, currency, position, restrictions, borrower, irrigation, finding, agents, oversight, considers, governor, appeals, however, secretarys, function, enterprise, panel, promptly, subsidiary, titles, appoint, mortgagee, delegate, designee, airports, decisions, amtrak, jointly, judges, accident, veteran
 subscription, services
 paragraph, subparagraph, sections, case, code, during, clause, distribution, paragraphs, subparagraphs, judges
-subparagraph, paragraph, security, amended, period, programs, commission, provide, prior
-sections, paragraph, note, plan, security, amended, period, programs, commission, provide, prior
-case, paragraph, respect, plan, security, amended, period, programs, commission, provide, prior
-during, paragraph, each, plan, security, amended, period, programs, commission, provide, prior
-clause, paragraph, plan, security, amended, period, programs, commission, provide, prior
+subparagraph, paragraph, security, amended, period, programs, commission, provide, prior, including
+sections, paragraph, note, plan, security, amended, period, programs, commission, provide, prior, including
+case, paragraph, respect, plan, security, amended, period, programs, commission, provide, prior, including
+during, paragraph, each, plan, security, amended, period, programs, commission, provide, prior, including
+clause, paragraph, plan, security, amended, period, programs, commission, provide, prior, including
 distribution, paragraph, plan, security, period, programs, commission, provide
-paragraphs, paragraph, plan, amended, period, programs, commission, provide
+paragraphs, paragraph, plan, amended, period, programs, commission, provide, prior
 subparagraphs, paragraph, provide
 judges, paragraph, period, programs, commission
 program, transmitter
@@ -28,17 +28,17 @@ part, cable, display
 cable, part, national, information
 added, amended, referred, inserted, struck, former, redesignated, subpar, subsecs, renumbered, pars, introductory, item, phonorecords, tribunal
 amended, added, note, security, period, programs, commission, provide, prior, including, appropriate, housing, purposes, pursuant, energy, requirements, report, individual, described, development, means, referred, regulations, required, amendments, administrator, transportation, board, subparagraph, available, authorized, years, sections, authority, case, order, activities, department, insurance, applicable, research, within, government, administration, funds, text, through, inserted, application, individuals, payment, care, code, necessary, related, congress, except, system, time, financial, action, established, project, director, grant, local, provision, corporation, agencies, upon, into, credit, apply, later, office, bank, will, make, functions, committee, effect, grants, business, include, organization, standards, days, eligible, otherwise, used, percent, accordance, during, lands, struck, relating, review, loan, interest, commerce, amounts, defined, benefits, sept, secs, property, extent, former, area, determined, contract, transfer, entity, only, references, payments, carry, fund, management, costs, first, safety, purpose, classified, agreement, institution, redesignated, court, facility, clause, following, enactment, facilities, words, generally, cost, persons, education, sentence, issued, beginning, repealed, members, company, determines, control, less, community, there, terms, same, protection, procedures, establish, designated, complete, regulation, banks, training, those, president, member, trade, projects, classification, officer, enforcement, number, defense, employees, submit, policy, conditions, existing, approved, determination, mortgage, original, without, banking, short, follows, specified, appropriated, require, subpar, rules, additional, thereof, small, manner, emergency, exceed, providing, conduct, tables, reasonable, months, civil, unless, request, district, land, laws, appropriations, construction, rule, take, rate, covered, does, organizations, reserve, administrative, whether, were, contracts, annual, foreign, home, insured, study, account, based, read, requirement, association, omitted, personnel, paid, enacted, reports, certain, resources, source, compliance, transferred, areas, employee, carrier, subtitle, should, subsecs, total, violation, ensure, prescribed, special, notes, final, attorney, systems, institutions, treatment, carrying, operation, council, technical, motor, month, compensation, jurisdiction, below, establishment, making, preceding, submitted, authorization, loans, sale, qualified, commercial, proposed, officers, standard, least, received, bureau, plans, duties, notwithstanding, determine, capital, meaning, equipment, approval, entitled, connection, unit, codification, savings, consultation, implementation, definitions, issue, until, limitation, purchase, deemed, located, consistent, right, involved, employment, applicant, revised, treasury, benefit, termination, assessment, value, prescribe, obligations, domestic, party, process, depository, commissioner, reference, renumbered, acts, filed, respectively, lease, senate, permit, included, penalty, fees, also, maximum, repeal, directed, appointed, similar, because, funding, rates, ending, claim, operations, change, applications, exchange, labor, forth, further, claims, considered, regulatory, interior, nothing, includes, deposit, pars, patent, known, powers, another, given, limitations, certification, procedure, comply, proceeding, comptroller, heading, acquisition, reduction, power, revision, surplus, contained, directors, formerly, stock, both, centum, improvement, mining, subsections, subsequent, limited, introductory, results, obligation, second, expiration, charges, carried, proceedings, held, alaska, airport, either, items, affected, reclamation, direct, thereafter, certificate, imposed, last, paragraphs, analysis, become, finance, aviation, item, decision, cited, executed, aircraft, reason, responsibilities, schedule, union, reflect, carriers, mineral, amending, increased, resolution, above, affairs, said, word, immediately, granted, event, identified, acquired, wherever, agriculture, definition, guarantee, applied, xviii, historical, consistency, places, contain, third, permitted, governors, designation, applies, associations, rehabilitation, thereto, mortgages, extended, these, three, death, settlement, veterans, designate, applicability, clarity, disposition, together, exceptions, subpars, exception, then, patents, accounts, receiver, authorizing, terminated, currency, restrictions, comprises, corporations, language, administered, changed, contents, xiii, titles, catchline, trademark, proviso, entitlement, leasing, postal, appa, concluding, subcl, stated, restated, conform, withdrawn, fourth, reenacted, chapters, veteran
-referred, added, security, amended, period, programs, commission, provide, prior
-inserted, added, plan, security, amended, period, programs, commission, provide, prior
-struck, added, plan, security, amended, period, programs, commission, provide, prior
+referred, added, security, amended, period, programs, commission, provide, prior, including
+inserted, added, plan, security, amended, period, programs, commission, provide, prior, including
+struck, added, plan, security, amended, period, programs, commission, provide, prior, including
 former, added, plan, amended, period, programs, commission, provide, prior
-redesignated, added, plan, security, amended, period, programs, commission, provide, prior
-subpar, added, amended, period, programs, commission, provide
-subsecs, added, plan, security, amended, period, programs, commission, provide
-renumbered, added, plan, security, amended, period, programs, commission, provide
-pars, added, amended, period, commission
-introductory, added, plan, security, amended, period, programs, commission, provide
-item, added, plan, security, amended, period, programs, commission, provide
+redesignated, added, plan, security, amended, period, programs, commission, provide, prior, including
+subpar, added, amended, period, programs, commission, provide, prior
+subsecs, added, plan, security, amended, period, programs, commission, provide, prior
+renumbered, added, plan, security, amended, period, programs, commission, provide, prior
+pars, added, amended, period, commission, prior
+introductory, added, plan, security, amended, period, programs, commission, provide, prior
+item, added, plan, security, amended, period, programs, commission, provide, prior
 phonorecords, added
 tribunal, added
 each, period, during, transmissions, compulsory
@@ -48,16 +48,16 @@ compulsory, each, amount
 national, communications, cable
 communications, national, security, commission, provide
 agency, institution, rules, officials, instrumentality, body
-institution, agency, plan, security, amended, period, programs, commission, provide, prior
+institution, agency, plan, security, amended, period, programs, commission, provide, prior, including
 officials, agency, security, programs, commission, provide
 instrumentality, agency, provide
 body, agency
 note, amended, amendments, sections, text, enactment, short, notes, transition
-amendments, note, security, amended, period, programs, commission, provide, prior
+amendments, note, security, amended, period, programs, commission, provide, prior, including
 text, note, plan, security, amended, period, programs, commission, provide, prior
-enactment, note, plan, security, amended, period, programs, commission, provide, prior
-short, note, plan, security, amended, period, programs
-notes, note, plan, amended, period
+enactment, note, plan, security, amended, period, programs, commission, provide, prior, including
+short, note, plan, security, amended, period, programs, prior
+notes, note, plan, amended, period, prior
 transition, note, programs
 information, cable
 fiscal, executive, quarterly, hereunder, spending, prove
@@ -67,11 +67,11 @@ hereunder, fiscal
 spending, fiscal
 prove, fiscal
 respect, case, right, secondary, exclusive
-right, respect, plan, security, amended, period, programs, commission, provide
+right, respect, plan, security, amended, period, programs, commission, provide, prior
 secondary, respect
 exclusive, respect, provide
 amount, rates, reform, compulsory
-rates, amount, plan, security, amended, period, programs, commission, provide
+rates, amount, plan, security, amended, period, programs, commission, provide, prior
 reform, amount, programs
 assistance, test, publish, licensed, internet, authorizations, container, publishes, exchanged, seat, links, facetoface
 test, assistance, programs
@@ -86,545 +86,545 @@ seat, assistance
 links, assistance
 facetoface, assistance
 plan, board, available, authorized, years, sections, insurance, activities, research, applicable, order, case, administration, authority, within, text, funds, individuals, application, government, through, payment, care, inserted, necessary, related, system, except, department, congress, financial, time, grant, project, code, action, local, established, director, agencies, provision, corporation, upon, credit, bank, into, apply, will, later, grants, make, office, functions, business, standards, committee, include, effect, organization, eligible, lands, otherwise, days, percent, used, accordance, loan, during, interest, commerce, amounts, benefits, relating, review, defined, struck, area, extent, determined, secs, entity, payments, references, safety, transfer, carry, fund, only, former, contract, property, sept, costs, management, purpose, classified, institution, first, agreement, facility, redesignated, clause, facilities, court, enactment, following, generally, issued, company, education, cost, beginning, control, persons, determines, community, repealed, less, there, terms, sentence, securities, protection, banks, establish, data, private, basis, complete, regulation, same, procedures, projects, classification, enforcement, words, designated, mortgage, those, banking, training, employees, president, members, approved, conditions, number, original, water, submit, short, determination, existing, policy, appropriated, require, without, rules, additional, specified, thereof, follows, emergency, manner, technology, exceed, tables, support, providing, reasonable, land, months, conduct, civil, rule, request, unless, rate, insured, laws, appropriations, home, administrative, construction, take, study, district, whether, income, does, annual, covered, contracts, account, member, officer, association, requirement, based, were, against, enacted, resources, areas, foreign, compliance, reports, when, paid, certain, transferred, should, organizations, carrier, total, violation, employee, omitted, final, subsecs, institutions, entities, demonstration, ensure, carrying, motor, council, treatment, systems, representatives, attorney, performance, reserve, month, personnel, operation, loans, compensation, establishment, special, prescribed, below, making, advisory, product, preceding, investment, standard, jurisdiction, sale, authorization, proposed, submitted, notes, qualified, urban, commercial, vehicle, recommendations, receive, plans, received, capital, bureau, least, notwithstanding, executive, subtitle, determine, between, codification, meet, meaning, savings, access, approval, duties, regarding, actions, unit, consultation, connection, implementation, issue, definitions, trust, deemed, statement, equipment, purchase, until, limitation, located, reporting, records, entitled, consistent, right, involved, applicant, expenses, material, employment, treasury, participation, benefit, center, increase, depository, assessment, termination, commissioner, develop, obligations, needs, criteria, value, party, written, agreements, filed, lease, process, reference, penalty, form, fees, group, permit, respectively, defense, prescribe, officers, acts, evaluation, renumbered, also, included, maximum, result, being, receiving, funding, senate, directed, ending, risk, applications, because, repeal, claim, similar, units, interior, conducted, labor, appointed, regulatory, farm, rates, further, patent, planning, deposit, exchange, claims, maintenance, change, nothing, market, forth, coordination, operating, operations, hearing, considered, includes, level, provides, assets, registration, comply, powers, limitations, comptroller, given, another, certification, surplus, availability, liability, consideration, materials, proceeding, condition, power, specific, failure, policies, production, minimum, findings, stock, international, heading, directors, over, mining, measures, contained, improvement, budget, subsequent, taken, addition, limited, distribution, subsections, finds, need, activity, place, results, obligation, enter, introductory, excess, cooperative, disclosure, share, procedure, both, holding, name, airport, maintain, response, rail, alaska, expiration, guidelines, implement, charges, reclamation, acquisition, record, carried, description, methods, practices, practicable, second, affected, capacity, waiver, held, thereafter, certificate, transaction, either, portion, charge, status, issuance, paragraphs, revision, become, authorities, analysis, finance, direct, evidence, agent, relevant, imposed, technologies, filing, aviation, committees, disability, decision, official, developed, union, they, mineral, responsibility, responsibilities, regional, reason, executed, schedule, requiring, aircraft, consider, continue, carriers, increased, recipient, extension, resolution, changes, factors, notification, companies, receipt, investigation, interests, immediately, said, publication, railroad, orders, above, acquired, event, granted, identified, operator, affairs, submission, force, guarantee, petition, financing, license, exemption, transactions, payable, goals, appropriation, definition, advance, examination, list, associations, rehabilitation, governors, permitted, places, parties, file, mortgages, passenger, designation, applies, word, levels, item, surface, thereto, copy, matters, extended, discretion, duty, settlement, country, supervision, writing, inspection, deposits, audit, pilot, location, modification, improvements, survey, designate, life, matter, infrastructure, branch, disposition, reorganization, exception, approve, then, receiver, veterans, objectives, completion, historical, borrower, irrigation, restrictions, corporations, counseling, leases, position, oversight, administered, strategy, priorities, concerned, arrangement, assessments, proposal, mortgagor, purchaser, subsidiary, course, mortgagee, airports, operators, amtrak, merger, withdrawal, veteran
-board, plan, security, amended, period, programs, commission, provide, prior
-available, plan, security, amended, period, programs, commission, provide, prior
-authorized, plan, security, amended, period, programs, commission, provide, prior
-years, plan, security, amended, period, programs, commission, provide, prior
-insurance, plan, security, amended, period, programs, commission, provide, prior
-activities, plan, security, amended, period, programs, commission, provide, prior
-research, plan, security, amended, period, programs, commission, provide, prior
-applicable, plan, security, amended, period, programs, commission, provide, prior
-order, plan, security, amended, period, programs, commission, provide, prior
-administration, plan, security, amended, period, programs, commission, provide, prior
-authority, plan, security, amended, period, programs, commission, provide, prior
-within, plan, security, amended, period, programs, commission, provide, prior
-funds, plan, security, amended, period, programs, commission, provide, prior
-individuals, plan, security, amended, period, programs, commission, provide, prior
-application, plan, security, amended, period, programs, commission, provide, prior
-government, plan, security, amended, period, programs, commission, provide, prior
-through, plan, security, amended, period, programs, commission, provide, prior
-payment, plan, security, amended, period, programs, commission, provide, prior
-care, plan, security, amended, period, programs, commission, provide
-necessary, plan, security, amended, period, programs, commission, provide, prior
-related, plan, security, amended, period, programs, commission, provide, prior
-system, plan, security, amended, period, programs, commission, provide, prior
-except, plan, security, amended, period, programs, commission, provide, prior
-department, plan, security, amended, period, programs, commission, provide, prior
-congress, plan, security, amended, period, programs, commission, provide, prior
-financial, plan, security, amended, period, programs, commission, provide, prior
-time, plan, security, amended, period, programs, commission, provide, prior
-grant, plan, security, amended, period, programs, commission, provide, prior
-project, plan, security, amended, period, programs, commission, provide, prior
-action, plan, security, amended, period, programs, commission, provide, prior
-local, plan, security, amended, period, programs, commission, provide, prior
-established, plan, security, amended, period, programs, commission, provide, prior
-director, plan, security, amended, period, programs, commission, provide, prior
-agencies, plan, security, amended, period, programs, commission, provide, prior
-provision, plan, security, amended, period, programs, commission, provide, prior
-corporation, plan, security, amended, period, programs, commission, provide, prior
-upon, plan, security, amended, period, programs, commission, provide, prior
-credit, plan, security, amended, period, programs, commission, provide, prior
-bank, plan, security, amended, period, programs, commission, provide, prior
-into, plan, security, amended, period, programs, commission, provide, prior
-apply, plan, security, amended, period, programs, commission, provide, prior
-will, plan, security, amended, period, programs, commission, provide, prior
-later, plan, security, amended, period, programs, commission, provide, prior
-grants, plan, security, amended, period, programs, commission, provide, prior
-make, plan, security, amended, period, programs, commission, provide, prior
-office, plan, security, amended, period, programs, commission, provide, prior
-functions, plan, security, amended, period, programs, commission, provide, prior
-business, plan, security, amended, period, programs, commission, provide, prior
-standards, plan, security, amended, period, programs, commission, provide, prior
-committee, plan, security, amended, period, programs, commission, provide, prior
-include, plan, security, amended, period, programs, commission, provide, prior
-effect, plan, security, amended, period, programs, commission, provide, prior
-organization, plan, security, amended, period, programs, commission, provide, prior
-eligible, plan, security, amended, period, programs, commission, provide, prior
-lands, plan, security, amended, period, programs, commission, provide, prior
-otherwise, plan, security, amended, period, programs, commission, provide, prior
-days, plan, security, amended, period, programs, commission, provide, prior
-percent, plan, security, amended, period, programs, provide, prior
-used, plan, security, amended, period, programs, commission, provide, prior
-accordance, plan, security, amended, period, programs, commission, provide, prior
-loan, plan, security, amended, period, programs, commission, provide, prior
-interest, plan, security, amended, period, programs, commission, provide, prior
-commerce, plan, security, amended, period, programs, commission, provide, prior
-amounts, plan, security, amended, period, programs, commission, provide, prior
-benefits, plan, security, amended, period, programs, commission, provide, prior
-relating, plan, security, amended, period, programs, commission, provide, prior
-review, plan, security, amended, period, programs, commission, provide, prior
-area, plan, security, amended, period, programs, commission, provide, prior
-extent, plan, security, amended, period, programs, commission, provide, prior
-determined, plan, security, amended, period, programs, commission, provide, prior
-secs, plan, security, amended, period, programs, commission, provide, prior
-entity, plan, security, amended, period, programs, commission, provide, prior
-payments, plan, security, amended, period, programs, commission, provide, prior
-references, plan, amended, period, programs, commission, provide, prior
-safety, plan, security, amended, period, programs, commission, provide, prior
-transfer, plan, security, amended, period, programs, commission, provide, prior
-carry, plan, security, amended, period, programs, commission, provide, prior
-fund, plan, security, amended, period, programs, commission, provide, prior
-only, plan, security, amended, period, programs, commission, provide, prior
-contract, plan, security, amended, period, programs, commission, provide, prior
-property, plan, security, amended, period, programs, commission, provide, prior
-sept, plan, security, amended, period, programs, commission, provide, prior
-costs, plan, security, amended, period, programs, commission, provide, prior
-management, plan, security, amended, period, programs, commission, provide, prior
-purpose, plan, security, amended, period, programs, commission, provide, prior
-classified, plan, amended, programs, commission, provide, prior
-first, plan, security, amended, period, programs, commission, provide, prior
-agreement, plan, security, amended, period, programs, commission, provide, prior
-facility, plan, security, amended, period, programs, commission, provide, prior
-facilities, plan, security, amended, period, programs, commission, provide, prior
-court, plan, security, amended, period, programs, commission, provide, prior
-following, plan, security, amended, period, programs, commission, provide, prior
-generally, plan, amended, period, programs, commission, provide, prior
-issued, plan, security, amended, period, programs, commission, provide, prior
-company, plan, security, amended, period, programs, commission, provide, prior
-education, plan, security, amended, period, programs, commission, provide, prior
-cost, plan, security, amended, period, programs, commission, provide, prior
-beginning, plan, security, amended, period, programs, commission, provide, prior
-control, plan, security, amended, period, programs, commission, provide, prior
-persons, plan, security, amended, period, programs, commission, provide, prior
-determines, plan, security, amended, period, programs, commission, provide, prior
-community, plan, security, amended, period, programs, commission, provide
-repealed, plan, security, amended, period, programs, commission, provide, prior
-less, plan, security, amended, period, programs, commission, provide, prior
-there, plan, security, amended, period, programs, commission, provide, prior
-terms, plan, security, amended, period, programs, commission, provide, prior
-sentence, plan, security, amended, period, programs, commission, provide, prior
-securities, plan, security, programs, commission, provide
-protection, plan, security, amended, period, programs, commission, provide, prior
-banks, plan, security, amended, period, programs, commission, provide, prior
-establish, plan, security, amended, period, programs, commission, provide, prior
-data, plan, security, period, programs, commission, provide
-private, plan, security, period, programs, commission, provide, prior
-basis, plan, security, period, programs, commission, provide, prior
-complete, plan, amended, provide, prior
-regulation, plan, security, amended, period, programs, commission, provide, prior
-same, plan, security, amended, period, programs, commission, provide, prior
-procedures, plan, security, amended, period, programs, commission, provide, prior
-projects, plan, security, amended, period, programs, commission, provide, prior
-classification, plan, security, amended, period, commission, provide, prior
-words, plan, security, amended, period, programs, commission, provide, prior
-designated, plan, security, amended, period, programs, commission, provide, prior
-mortgage, plan, security, amended, period, programs, commission, provide
-those, plan, security, amended, period, programs, commission, provide, prior
-banking, plan, security, amended, period, programs, commission, provide
-training, plan, security, amended, period, programs, commission, provide, prior
-employees, plan, security, amended, period, programs, commission, provide, prior
-president, plan, security, amended, period, programs, commission, provide, prior
-members, plan, security, amended, period, programs, commission, provide, prior
-approved, plan, security, amended, period, programs, commission, provide
-conditions, plan, security, amended, period, programs, commission, provide
-number, plan, security, amended, period, programs, commission, provide, prior
-original, plan, security, amended, period, programs, commission, provide
-water, plan, security, period, programs, commission, provide
-submit, plan, security, amended, period, programs, commission, provide
-determination, plan, security, amended, period, programs, commission, provide
-existing, plan, security, amended, period, programs, commission, provide
-policy, plan, security, amended, period, programs, commission, provide
-appropriated, plan, amended, period, programs, commission, provide
-require, plan, security, amended, period, programs, commission, provide
-without, plan, security, amended, period, programs, commission, provide
-additional, plan, security, amended, period, programs, commission, provide
-specified, plan, security, amended, period, programs, commission, provide
-thereof, plan, security, amended, period, programs, commission, provide
-follows, plan, security, amended, period, programs, commission, provide
-emergency, plan, security, amended, period, programs, commission, provide
-manner, plan, security, amended, period, programs, commission, provide
+board, plan, security, amended, period, programs, commission, provide, prior, including
+available, plan, security, amended, period, programs, commission, provide, prior, including
+authorized, plan, security, amended, period, programs, commission, provide, prior, including
+years, plan, security, amended, period, programs, commission, provide, prior, including
+insurance, plan, security, amended, period, programs, commission, provide, prior, including
+activities, plan, security, amended, period, programs, commission, provide, prior, including
+research, plan, security, amended, period, programs, commission, provide, prior, including
+applicable, plan, security, amended, period, programs, commission, provide, prior, including
+order, plan, security, amended, period, programs, commission, provide, prior, including
+administration, plan, security, amended, period, programs, commission, provide, prior, including
+authority, plan, security, amended, period, programs, commission, provide, prior, including
+within, plan, security, amended, period, programs, commission, provide, prior, including
+funds, plan, security, amended, period, programs, commission, provide, prior, including
+individuals, plan, security, amended, period, programs, commission, provide, prior, including
+application, plan, security, amended, period, programs, commission, provide, prior, including
+government, plan, security, amended, period, programs, commission, provide, prior, including
+through, plan, security, amended, period, programs, commission, provide, prior, including
+payment, plan, security, amended, period, programs, commission, provide, prior, including
+care, plan, security, amended, period, programs, commission, provide, including
+necessary, plan, security, amended, period, programs, commission, provide, prior, including
+related, plan, security, amended, period, programs, commission, provide, prior, including
+system, plan, security, amended, period, programs, commission, provide, prior, including
+except, plan, security, amended, period, programs, commission, provide, prior, including
+department, plan, security, amended, period, programs, commission, provide, prior, including
+congress, plan, security, amended, period, programs, commission, provide, prior, including
+financial, plan, security, amended, period, programs, commission, provide, prior, including
+time, plan, security, amended, period, programs, commission, provide, prior, including
+grant, plan, security, amended, period, programs, commission, provide, prior, including
+project, plan, security, amended, period, programs, commission, provide, prior, including
+action, plan, security, amended, period, programs, commission, provide, prior, including
+local, plan, security, amended, period, programs, commission, provide, prior, including
+established, plan, security, amended, period, programs, commission, provide, prior, including
+director, plan, security, amended, period, programs, commission, provide, prior, including
+agencies, plan, security, amended, period, programs, commission, provide, prior, including
+provision, plan, security, amended, period, programs, commission, provide, prior, including
+corporation, plan, security, amended, period, programs, commission, provide, prior, including
+upon, plan, security, amended, period, programs, commission, provide, prior, including
+credit, plan, security, amended, period, programs, commission, provide, prior, including
+bank, plan, security, amended, period, programs, commission, provide, prior, including
+into, plan, security, amended, period, programs, commission, provide, prior, including
+apply, plan, security, amended, period, programs, commission, provide, prior, including
+will, plan, security, amended, period, programs, commission, provide, prior, including
+later, plan, security, amended, period, programs, commission, provide, prior, including
+grants, plan, security, amended, period, programs, commission, provide, prior, including
+make, plan, security, amended, period, programs, commission, provide, prior, including
+office, plan, security, amended, period, programs, commission, provide, prior, including
+functions, plan, security, amended, period, programs, commission, provide, prior, including
+business, plan, security, amended, period, programs, commission, provide, prior, including
+standards, plan, security, amended, period, programs, commission, provide, prior, including
+committee, plan, security, amended, period, programs, commission, provide, prior, including
+include, plan, security, amended, period, programs, commission, provide, prior, including
+effect, plan, security, amended, period, programs, commission, provide, prior, including
+organization, plan, security, amended, period, programs, commission, provide, prior, including
+eligible, plan, security, amended, period, programs, commission, provide, prior, including
+lands, plan, security, amended, period, programs, commission, provide, prior, including
+otherwise, plan, security, amended, period, programs, commission, provide, prior, including
+days, plan, security, amended, period, programs, commission, provide, prior, including
+percent, plan, security, amended, period, programs, provide, prior, including
+used, plan, security, amended, period, programs, commission, provide, prior, including
+accordance, plan, security, amended, period, programs, commission, provide, prior, including
+loan, plan, security, amended, period, programs, commission, provide, prior, including
+interest, plan, security, amended, period, programs, commission, provide, prior, including
+commerce, plan, security, amended, period, programs, commission, provide, prior, including
+amounts, plan, security, amended, period, programs, commission, provide, prior, including
+benefits, plan, security, amended, period, programs, commission, provide, prior, including
+relating, plan, security, amended, period, programs, commission, provide, prior, including
+review, plan, security, amended, period, programs, commission, provide, prior, including
+area, plan, security, amended, period, programs, commission, provide, prior, including
+extent, plan, security, amended, period, programs, commission, provide, prior, including
+determined, plan, security, amended, period, programs, commission, provide, prior, including
+secs, plan, security, amended, period, programs, commission, provide, prior, including
+entity, plan, security, amended, period, programs, commission, provide, prior, including
+payments, plan, security, amended, period, programs, commission, provide, prior, including
+references, plan, amended, period, programs, commission, provide, prior, including
+safety, plan, security, amended, period, programs, commission, provide, prior, including
+transfer, plan, security, amended, period, programs, commission, provide, prior, including
+carry, plan, security, amended, period, programs, commission, provide, prior, including
+fund, plan, security, amended, period, programs, commission, provide, prior, including
+only, plan, security, amended, period, programs, commission, provide, prior, including
+contract, plan, security, amended, period, programs, commission, provide, prior, including
+property, plan, security, amended, period, programs, commission, provide, prior, including
+sept, plan, security, amended, period, programs, commission, provide, prior, including
+costs, plan, security, amended, period, programs, commission, provide, prior, including
+management, plan, security, amended, period, programs, commission, provide, prior, including
+purpose, plan, security, amended, period, programs, commission, provide, prior, including
+classified, plan, amended, programs, commission, provide, prior, including
+first, plan, security, amended, period, programs, commission, provide, prior, including
+agreement, plan, security, amended, period, programs, commission, provide, prior, including
+facility, plan, security, amended, period, programs, commission, provide, prior, including
+facilities, plan, security, amended, period, programs, commission, provide, prior, including
+court, plan, security, amended, period, programs, commission, provide, prior, including
+following, plan, security, amended, period, programs, commission, provide, prior, including
+generally, plan, amended, period, programs, commission, provide, prior, including
+issued, plan, security, amended, period, programs, commission, provide, prior, including
+company, plan, security, amended, period, programs, commission, provide, prior, including
+education, plan, security, amended, period, programs, commission, provide, prior, including
+cost, plan, security, amended, period, programs, commission, provide, prior, including
+beginning, plan, security, amended, period, programs, commission, provide, prior, including
+control, plan, security, amended, period, programs, commission, provide, prior, including
+persons, plan, security, amended, period, programs, commission, provide, prior, including
+determines, plan, security, amended, period, programs, commission, provide, prior, including
+community, plan, security, amended, period, programs, commission, provide, including
+repealed, plan, security, amended, period, programs, commission, provide, prior, including
+less, plan, security, amended, period, programs, commission, provide, prior, including
+there, plan, security, amended, period, programs, commission, provide, prior, including
+terms, plan, security, amended, period, programs, commission, provide, prior, including
+sentence, plan, security, amended, period, programs, commission, provide, prior, including
+securities, plan, security, programs, commission, provide, including
+protection, plan, security, amended, period, programs, commission, provide, prior, including
+banks, plan, security, amended, period, programs, commission, provide, prior, including
+establish, plan, security, amended, period, programs, commission, provide, prior, including
+data, plan, security, period, programs, commission, provide, including
+private, plan, security, period, programs, commission, provide, prior, including
+basis, plan, security, period, programs, commission, provide, prior, including
+complete, plan, amended, provide, prior, including
+regulation, plan, security, amended, period, programs, commission, provide, prior, including
+same, plan, security, amended, period, programs, commission, provide, prior, including
+procedures, plan, security, amended, period, programs, commission, provide, prior, including
+projects, plan, security, amended, period, programs, commission, provide, prior, including
+classification, plan, security, amended, period, commission, provide, prior, including
+words, plan, security, amended, period, programs, commission, provide, prior, including
+designated, plan, security, amended, period, programs, commission, provide, prior, including
+mortgage, plan, security, amended, period, programs, commission, provide, prior, including
+those, plan, security, amended, period, programs, commission, provide, prior, including
+banking, plan, security, amended, period, programs, commission, provide, prior, including
+training, plan, security, amended, period, programs, commission, provide, prior, including
+employees, plan, security, amended, period, programs, commission, provide, prior, including
+president, plan, security, amended, period, programs, commission, provide, prior, including
+members, plan, security, amended, period, programs, commission, provide, prior, including
+approved, plan, security, amended, period, programs, commission, provide, prior, including
+conditions, plan, security, amended, period, programs, commission, provide, prior, including
+number, plan, security, amended, period, programs, commission, provide, prior, including
+original, plan, security, amended, period, programs, commission, provide, prior, including
+water, plan, security, period, programs, commission, provide, prior, including
+submit, plan, security, amended, period, programs, commission, provide, prior, including
+determination, plan, security, amended, period, programs, commission, provide, prior, including
+existing, plan, security, amended, period, programs, commission, provide, prior, including
+policy, plan, security, amended, period, programs, commission, provide, prior, including
+appropriated, plan, amended, period, programs, commission, provide, prior, including
+require, plan, security, amended, period, programs, commission, provide, prior, including
+without, plan, security, amended, period, programs, commission, provide, prior, including
+additional, plan, security, amended, period, programs, commission, provide, prior
+specified, plan, security, amended, period, programs, commission, provide, prior, including
+thereof, plan, security, amended, period, programs, commission, provide, prior
+follows, plan, security, amended, period, programs, commission, provide, prior, including
+emergency, plan, security, amended, period, programs, commission, provide, prior
+manner, plan, security, amended, period, programs, commission, provide, prior
 technology, plan, security, programs, commission, provide
-exceed, plan, security, amended, period, programs, commission, provide
-tables, plan, security, amended, period, programs, commission, provide
+exceed, plan, security, amended, period, programs, commission, provide, prior
+tables, plan, security, amended, period, programs, commission, provide, prior
 support, plan, security, programs, commission, provide
-providing, plan, security, amended, period, programs, commission, provide
-reasonable, plan, security, amended, period, programs, commission, provide
-land, plan, security, amended, period, programs, commission, provide
-months, plan, security, amended, period, programs, commission, provide
+providing, plan, security, amended, period, programs, commission, provide, prior
+reasonable, plan, security, amended, period, programs, commission, provide, prior
+land, plan, security, amended, period, programs, commission, provide, prior
+months, plan, security, amended, period, programs, commission, provide, prior
 conduct, plan, security, amended, period, programs, commission, provide
-civil, plan, security, amended, period, programs, commission, provide
-rule, plan, security, amended, period, programs, commission, provide
-request, plan, security, amended, period, programs, commission, provide
-unless, plan, security, amended, period, programs, commission, provide
-rate, plan, security, amended, period, programs, commission, provide
-insured, plan, security, amended, period, programs, commission, provide
-laws, plan, security, amended, period, programs, commission, provide
-appropriations, plan, security, amended, period, programs, commission, provide
-home, plan, security, amended, period, programs, commission, provide
-administrative, plan, security, amended, period, programs, commission, provide
-construction, plan, security, amended, period, programs, commission, provide
-take, plan, security, amended, period, programs, commission, provide
-study, plan, security, amended, period, programs, commission, provide
-district, plan, security, amended, period, programs, commission, provide
-whether, plan, security, amended, period, programs, commission, provide
+civil, plan, security, amended, period, programs, commission, provide, prior
+rule, plan, security, amended, period, programs, commission, provide, prior
+request, plan, security, amended, period, programs, commission, provide, prior
+unless, plan, security, amended, period, programs, commission, provide, prior
+rate, plan, security, amended, period, programs, commission, provide, prior
+insured, plan, security, amended, period, programs, commission, provide, prior
+laws, plan, security, amended, period, programs, commission, provide, prior
+appropriations, plan, security, amended, period, programs, commission, provide, prior
+home, plan, security, amended, period, programs, commission, provide, prior
+administrative, plan, security, amended, period, programs, commission, provide, prior
+construction, plan, security, amended, period, programs, commission, provide, prior
+take, plan, security, amended, period, programs, commission, provide, prior
+study, plan, security, amended, period, programs, commission, provide, prior
+district, plan, security, amended, period, programs, commission, provide, prior
+whether, plan, security, amended, period, programs, commission, provide, prior
 income, plan, period, provide
-does, plan, security, amended, period, commission, provide
-annual, plan, security, amended, period, programs, commission, provide
-covered, plan, security, amended, period, programs, commission, provide
-contracts, plan, security, amended, period, programs, commission, provide
-account, plan, security, amended, period, programs, commission, provide
-member, plan, security, amended, period, programs, commission, provide, prior
-officer, plan, security, amended, period, programs, commission, provide, prior
-association, plan, security, amended, period, programs, commission, provide
-requirement, plan, security, amended, period, programs, commission, provide
-based, plan, security, amended, period, programs, commission, provide
-were, plan, security, amended, period, programs, commission, provide
-against, plan, security, period, commission, provide
-enacted, plan, security, amended, period, programs, commission, provide
-resources, plan, security, amended, programs, commission, provide
+does, plan, security, amended, period, commission, provide, prior
+annual, plan, security, amended, period, programs, commission, provide, prior
+covered, plan, security, amended, period, programs, commission, provide, prior
+contracts, plan, security, amended, period, programs, commission, provide, prior
+account, plan, security, amended, period, programs, commission, provide, prior
+member, plan, security, amended, period, programs, commission, provide, prior, including
+officer, plan, security, amended, period, programs, commission, provide, prior, including
+association, plan, security, amended, period, programs, commission, provide, prior
+requirement, plan, security, amended, period, programs, commission, provide, prior
+based, plan, security, amended, period, programs, commission, provide, prior
+were, plan, security, amended, period, programs, commission, provide, prior
+against, plan, security, period, commission, provide, prior
+enacted, plan, security, amended, period, programs, commission, provide, prior
+resources, plan, security, amended, programs, commission, provide, prior
 areas, plan, security, amended, period, programs, commission, provide
-foreign, plan, security, amended, period, programs, commission, provide
-compliance, plan, security, amended, period, programs, commission, provide
-reports, plan, security, amended, period, programs, commission, provide
-when, plan, security, period, programs, commission, provide
-paid, plan, security, amended, period, programs, commission, provide
-certain, plan, security, amended, period, programs, commission, provide
-transferred, plan, security, amended, period, programs, commission, provide
+foreign, plan, security, amended, period, programs, commission, provide, prior
+compliance, plan, security, amended, period, programs, commission, provide, prior
+reports, plan, security, amended, period, programs, commission, provide, prior
+when, plan, security, period, programs, commission, provide, prior
+paid, plan, security, amended, period, programs, commission, provide, prior
+certain, plan, security, amended, period, programs, commission, provide, prior
+transferred, plan, security, amended, period, programs, commission, provide, prior
 should, plan, security, amended, period, programs, provide
 organizations, plan, security, amended, programs, commission, provide
-carrier, plan, security, amended, period, programs, commission, provide
-total, plan, security, amended, period, programs, provide
-violation, plan, security, amended, period, programs, commission, provide
-employee, plan, security, amended, period, programs, commission, provide
-omitted, plan, security, amended, period, programs, commission, provide
-final, plan, security, amended, period, programs, commission, provide
-institutions, plan, security, amended, period, programs, commission, provide
+carrier, plan, security, amended, period, programs, commission, provide, prior
+total, plan, security, amended, period, programs, provide, prior
+violation, plan, security, amended, period, programs, commission, provide, prior
+employee, plan, security, amended, period, programs, commission, provide, prior
+omitted, plan, security, amended, period, programs, commission, provide, prior
+final, plan, security, amended, period, programs, commission, provide, prior
+institutions, plan, security, amended, period, programs, commission, provide, prior
 entities, plan, security, programs, commission, provide
 demonstration, plan, security, programs, commission, provide
-ensure, plan, security, amended, period, programs, commission, provide
-carrying, plan, security, amended, period, programs, commission, provide
+ensure, plan, security, amended, period, programs, commission, provide, prior
+carrying, plan, security, amended, period, programs, commission, provide, prior
 motor, plan, security, amended, programs, provide
-council, plan, security, amended, period, programs, commission, provide
+council, plan, security, amended, period, programs, commission, provide, prior
 treatment, plan, security, amended, period, programs, commission, provide
-systems, plan, security, amended, period, programs, commission, provide
+systems, plan, security, amended, period, programs, commission, provide, prior
 representatives, plan, security, programs, commission, provide
-attorney, plan, security, amended, period, programs, commission, provide
-performance, plan, security, period, programs, commission, provide
-reserve, plan, security, amended, period, programs, commission, provide
-month, plan, amended, period, programs, provide
+attorney, plan, security, amended, period, programs, commission, provide, prior
+performance, plan, security, period, programs, commission, provide, prior
+reserve, plan, security, amended, period, programs, commission, provide, prior
+month, plan, amended, period, programs, provide, prior
 personnel, plan, security, amended, period, programs, commission, provide
-operation, plan, security, amended, period, programs, commission, provide
-loans, plan, security, amended, period, programs, commission, provide
-compensation, plan, security, amended, period, programs, commission, provide
-establishment, plan, security, amended, period, programs, commission, provide
-special, plan, security, amended, period, programs, commission, provide
-prescribed, plan, security, amended, period, programs, commission, provide
-below, plan, security, amended, period, programs, commission, provide
-making, plan, security, amended, period, programs, commission, provide
+operation, plan, security, amended, period, programs, commission, provide, prior
+loans, plan, security, amended, period, programs, commission, provide, prior
+compensation, plan, security, amended, period, programs, commission, provide, prior
+establishment, plan, security, amended, period, programs, commission, provide, prior
+special, plan, security, amended, period, programs, commission, provide, prior
+prescribed, plan, security, amended, period, programs, commission, provide, prior
+below, plan, security, amended, period, programs, commission, provide, prior
+making, plan, security, amended, period, programs, commission, provide, prior
 advisory, plan, security, programs, commission, provide
 product, plan, security, programs
-preceding, plan, amended, period, programs, commission, provide
+preceding, plan, amended, period, programs, commission, provide, prior
 investment, plan, security, period, programs, commission, provide
-standard, plan, security, amended, period, programs, commission, provide
-jurisdiction, plan, security, amended, period, programs, commission, provide
-sale, plan, security, amended, period, programs, commission, provide
-authorization, plan, security, amended, period, programs, commission, provide
-proposed, plan, security, amended, period, programs, commission, provide
-submitted, plan, security, amended, period, programs, commission, provide
-qualified, plan, security, amended, period, programs, commission, provide
+standard, plan, security, amended, period, programs, commission, provide, prior
+jurisdiction, plan, security, amended, period, programs, commission, provide, prior
+sale, plan, security, amended, period, programs, commission, provide, prior
+authorization, plan, security, amended, period, programs, commission, provide, prior
+proposed, plan, security, amended, period, programs, commission, provide, prior
+submitted, plan, security, amended, period, programs, commission, provide, prior
+qualified, plan, security, amended, period, programs, commission, provide, prior
 urban, plan, security, programs
-commercial, plan, security, amended, period, programs, provide
+commercial, plan, security, amended, period, programs, provide, prior
 vehicle, plan, security, period, programs, commission, provide
-recommendations, plan, security, period, programs, commission, provide
-receive, plan, security, period, programs, commission, provide
-plans, plan, security, amended, period, programs, commission, provide
-received, plan, security, amended, period, programs, commission, provide
-capital, plan, security, amended, period, programs, commission, provide
-bureau, plan, security, amended, period, programs, commission, provide
-least, plan, security, amended, period, programs, commission, provide
-notwithstanding, plan, security, amended, period, programs, commission, provide
-subtitle, plan, security, amended, period, programs, commission, provide
-determine, plan, security, amended, period, programs, commission, provide
-between, plan, security, period, programs, commission, provide
-codification, plan, amended, programs, commission, provide
-meet, plan, security, programs, provide
-meaning, plan, security, amended, period, programs, commission, provide
-savings, plan, security, amended, period, programs, commission, provide
+recommendations, plan, security, period, programs, commission, provide, prior
+receive, plan, security, period, programs, commission, provide, prior
+plans, plan, security, amended, period, programs, commission, provide, prior
+received, plan, security, amended, period, programs, commission, provide, prior
+capital, plan, security, amended, period, programs, commission, provide, prior
+bureau, plan, security, amended, period, programs, commission, provide, prior
+least, plan, security, amended, period, programs, commission, provide, prior
+notwithstanding, plan, security, amended, period, programs, commission, provide, prior
+subtitle, plan, security, amended, period, programs, commission, provide, prior
+determine, plan, security, amended, period, programs, commission, provide, prior
+between, plan, security, period, programs, commission, provide, prior
+codification, plan, amended, programs, commission, provide, prior
+meet, plan, security, programs, provide, prior
+meaning, plan, security, amended, period, programs, commission, provide, prior
+savings, plan, security, amended, period, programs, commission, provide, prior
 access, plan, security, programs, commission, provide
-approval, plan, security, amended, period, programs, commission, provide
-duties, plan, security, amended, period, programs, commission, provide
+approval, plan, security, amended, period, programs, commission, provide, prior
+duties, plan, security, amended, period, programs, commission, provide, prior
 regarding, plan, security, programs, commission, provide
-actions, plan, security, period, programs, commission, provide
-unit, plan, security, amended, period, programs, provide
-consultation, plan, security, amended, period, programs, commission, provide
-connection, plan, security, amended, period, programs, commission, provide
-implementation, plan, security, amended, period, programs, commission, provide
-issue, plan, security, amended, period, programs, commission, provide
-definitions, plan, security, amended, period, programs, commission, provide
+actions, plan, security, period, programs, commission, provide, prior
+unit, plan, security, amended, period, programs, provide, prior
+consultation, plan, security, amended, period, programs, commission, provide, prior
+connection, plan, security, amended, period, programs, commission, provide, prior
+implementation, plan, security, amended, period, programs, commission, provide, prior
+issue, plan, security, amended, period, programs, commission, provide, prior
+definitions, plan, security, amended, period, programs, commission, provide, prior
 trust, plan, security, programs, provide
-deemed, plan, security, amended, period, programs, commission, provide
-statement, plan, security, period, programs, commission, provide
-equipment, plan, security, amended, period, programs, commission, provide
-purchase, plan, security, amended, period, programs, commission, provide
-until, plan, security, amended, period, programs, commission, provide
-limitation, plan, security, amended, period, programs, commission, provide
-located, plan, security, amended, period, programs, commission, provide
+deemed, plan, security, amended, period, programs, commission, provide, prior
+statement, plan, security, period, programs, commission, provide, prior
+equipment, plan, security, amended, period, programs, commission, provide, prior
+purchase, plan, security, amended, period, programs, commission, provide, prior
+until, plan, security, amended, period, programs, commission, provide, prior
+limitation, plan, security, amended, period, programs, commission, provide, prior
+located, plan, security, amended, period, programs, commission, provide, prior
 reporting, plan, period, programs, provide
-records, plan, security, period, programs, commission, provide
-entitled, plan, security, amended, period, programs, commission, provide
-consistent, plan, security, amended, period, programs, commission, provide
+records, plan, security, period, programs, commission, provide, prior
+entitled, plan, security, amended, period, programs, commission, provide, prior
+consistent, plan, security, amended, period, programs, commission, provide, prior
 involved, plan, security, amended, period, programs, commission, provide
-applicant, plan, amended, period, programs, commission, provide
-expenses, plan, security, period, programs, commission, provide
+applicant, plan, amended, period, programs, commission, provide, prior
+expenses, plan, security, period, programs, commission, provide, prior
 material, plan, security, period, programs, commission, provide
-employment, plan, security, amended, period, programs, commission, provide
-treasury, plan, security, amended, period, programs, commission, provide
+employment, plan, security, amended, period, programs, commission, provide, prior
+treasury, plan, security, amended, period, programs, commission, provide, prior
 participation, plan, security, period, programs, commission, provide
-benefit, plan, security, amended, period, programs, commission, provide
+benefit, plan, security, amended, period, programs, commission, provide, prior
 center, plan, security, programs, commission, provide
-increase, plan, security, period, programs, commission, provide
-depository, plan, security, amended, period, provide
-assessment, plan, security, amended, period, programs, commission, provide
-termination, plan, security, amended, period, programs, commission, provide
-commissioner, plan, amended, period, commission, provide
+increase, plan, security, period, programs, commission, provide, prior
+depository, plan, security, amended, period, provide, prior
+assessment, plan, security, amended, period, programs, commission, provide, prior
+termination, plan, security, amended, period, programs, commission, provide, prior
+commissioner, plan, amended, period, commission, provide, prior
 develop, plan, security, programs, commission, provide
-obligations, plan, security, amended, period, programs, commission, provide
+obligations, plan, security, amended, period, programs, commission, provide, prior
 needs, plan, security, programs, commission, provide
 criteria, plan, security, period, programs, commission, provide
-value, plan, security, amended, period, programs, provide
-party, plan, security, amended, period, programs, commission, provide
-written, plan, security, period, commission, provide
-agreements, plan, security, period, programs, commission, provide
-filed, plan, security, amended, period, programs, commission, provide
-lease, plan, security, amended, period, programs, commission, provide
+value, plan, security, amended, period, programs, provide, prior
+party, plan, security, amended, period, programs, commission, provide, prior
+written, plan, security, period, commission, provide, prior
+agreements, plan, security, period, programs, commission, provide, prior
+filed, plan, security, amended, period, programs, commission, provide, prior
+lease, plan, security, amended, period, programs, commission, provide, prior
 process, plan, security, amended, period, programs, commission, provide
-reference, plan, security, amended, period, programs, commission, provide
-penalty, plan, security, amended, period, commission, provide
-form, plan, security, period, programs, commission, provide
-fees, plan, security, amended, period, programs, commission, provide
+reference, plan, security, amended, period, programs, commission, provide, prior
+penalty, plan, security, amended, period, commission, provide, prior
+form, plan, security, period, programs, commission, provide, prior
+fees, plan, security, amended, period, programs, commission, provide, prior
 group, plan, security, commission, provide
-permit, plan, security, amended, period, programs, commission, provide
-respectively, plan, security, amended, period, programs, commission, provide
-defense, plan, security, amended, period, programs, commission, provide, prior
-prescribe, plan, security, amended, period, programs, commission, provide
+permit, plan, security, amended, period, programs, commission, provide, prior
+respectively, plan, security, amended, period, programs, commission, provide, prior
+defense, plan, security, amended, period, programs, commission, provide, prior, including
+prescribe, plan, security, amended, period, programs, commission, provide, prior
 officers, plan, security, amended, period, programs, commission, provide
-acts, plan, security, amended, period, programs, commission, provide
+acts, plan, security, amended, period, programs, commission, provide, prior
 evaluation, plan, security, period, programs, commission, provide
-also, plan, security, amended, period, programs, commission, provide
-included, plan, security, amended, period, programs, commission, provide
-maximum, plan, security, amended, period, programs, provide
-result, plan, security, period, commission, provide
-being, plan, period, programs, provide
-receiving, plan, commission, provide
-funding, plan, security, amended, period, programs, commission, provide
+also, plan, security, amended, period, programs, commission, provide, prior
+included, plan, security, amended, period, programs, commission, provide, prior
+maximum, plan, security, amended, period, programs, provide, prior
+result, plan, security, period, commission, provide, prior
+being, plan, period, programs, provide, prior
+receiving, plan, commission, provide, prior
+funding, plan, security, amended, period, programs, commission, provide, prior
 senate, plan, security, amended, period, programs, commission, provide
-directed, plan, security, amended, period, programs, commission, provide
-ending, plan, security, amended, period, programs, commission, provide
+directed, plan, security, amended, period, programs, commission, provide, prior
+ending, plan, security, amended, period, programs, commission, provide, prior
 risk, plan, security, programs, provide
-applications, plan, security, amended, period, programs, commission, provide
-because, plan, security, amended, period, programs, commission, provide
-repeal, plan, amended, programs, commission, provide
-claim, plan, security, amended, period, programs, commission, provide
-similar, plan, security, amended, programs, commission, provide
+applications, plan, security, amended, period, programs, commission, provide, prior
+because, plan, security, amended, period, programs, commission, provide, prior
+repeal, plan, amended, programs, commission, provide, prior
+claim, plan, security, amended, period, programs, commission, provide, prior
+similar, plan, security, amended, programs, commission, provide, prior
 units, plan, period, programs, provide
-interior, plan, security, amended, period, programs, commission, provide
+interior, plan, security, amended, period, programs, commission, provide, prior
 conducted, plan, security, programs, commission, provide
-labor, plan, security, amended, period, programs, commission, provide
-appointed, plan, security, amended, period, commission, provide
+labor, plan, security, amended, period, programs, commission, provide, prior
+appointed, plan, security, amended, period, commission, provide, prior
 regulatory, plan, security, amended, period, programs, commission, provide
 farm, plan, security, period, programs, provide
-further, plan, security, amended, period, programs, commission, provide
-patent, plan, security, amended, period, programs, commission, provide
+further, plan, security, amended, period, programs, commission, provide, prior
+patent, plan, security, amended, period, programs, commission, provide, prior
 planning, plan, security, period, programs, commission, provide
-deposit, plan, security, amended, period, programs, commission, provide
+deposit, plan, security, amended, period, programs, commission, provide, prior
 exchange, plan, security, amended, commission, provide
-claims, plan, security, amended, period, programs, commission, provide
-maintenance, plan, security, period, programs, provide
-change, plan, security, amended, period, commission, provide
-nothing, plan, amended, programs, commission, provide
+claims, plan, security, amended, period, programs, commission, provide, prior
+maintenance, plan, security, period, programs, provide, prior
+change, plan, security, amended, period, commission, provide, prior
+nothing, plan, amended, programs, commission, provide, prior
 market, plan, security, programs, provide
-forth, plan, security, amended, period, programs, commission, provide
-coordination, plan, security, programs, commission, provide
+forth, plan, security, amended, period, programs, commission, provide, prior
+coordination, plan, security, programs, commission, provide, prior
 operating, plan, security, period, programs, provide
-operations, plan, security, amended, period, programs, commission, provide
-hearing, plan, period, programs, commission, provide
-considered, plan, security, amended, period, programs, commission, provide
+operations, plan, security, amended, period, programs, commission, provide, prior
+hearing, plan, period, programs, commission, provide, prior
+considered, plan, security, amended, period, programs, commission, provide, prior
 includes, plan, security, amended, period, programs, commission, provide
-level, plan, security, period, programs, commission, provide
-provides, plan, security, programs, commission, provide
+level, plan, security, period, programs, commission, provide, prior
+provides, plan, security, programs, commission, provide, prior
 assets, plan, security, period, programs, commission, provide
-registration, plan, security, period, programs, commission, provide
-comply, plan, security, amended, period, programs, commission, provide
-powers, plan, security, amended, programs, commission, provide
-limitations, plan, security, amended, period, programs, commission, provide
-comptroller, plan, security, amended, period, programs, commission, provide
-given, plan, security, amended, period, programs, commission, provide
-another, plan, security, amended, period, programs, commission, provide
-certification, plan, security, amended, period, programs, commission, provide
+registration, plan, security, period, programs, commission, provide, prior
+comply, plan, security, amended, period, programs, commission, provide, prior
+powers, plan, security, amended, programs, commission, provide, prior
+limitations, plan, security, amended, period, programs, commission, provide, prior
+comptroller, plan, security, amended, period, programs, commission, provide, prior
+given, plan, security, amended, period, programs, commission, provide, prior
+another, plan, security, amended, period, programs, commission, provide, prior
+certification, plan, security, amended, period, programs, commission, provide, prior
 surplus, plan, amended
-availability, plan, security, period, programs, commission, provide
-liability, plan, security, period, programs, commission, provide
-consideration, plan, security, period, commission, provide
+availability, plan, security, period, programs, commission, provide, prior
+liability, plan, security, period, programs, commission, provide, prior
+consideration, plan, security, period, commission, provide, prior
 materials, plan, security, programs, commission, provide
-proceeding, plan, security, amended, period, programs, commission, provide
-condition, plan, security, period, programs, commission, provide
-power, plan, amended, period, commission, provide
-specific, plan, security, period, provide
+proceeding, plan, security, amended, period, programs, commission, provide, prior
+condition, plan, security, period, programs, commission, provide, prior
+power, plan, amended, period, commission, provide, prior
+specific, plan, security, period, provide, prior
 failure, plan, period, programs, commission, provide
 policies, plan, security, programs, commission, provide
 production, plan, security, period, commission, provide
 minimum, plan, security, period, programs, commission, provide
 findings, plan, security, programs, commission, provide
-stock, plan, security, amended, period, programs, commission, provide
+stock, plan, security, amended, period, programs, commission, provide, prior
 international, plan, security, programs, commission, provide
-heading, plan, security, amended, period, programs, commission, provide
-directors, plan, security, amended, period, programs, commission, provide
-over, plan, security, period, programs, commission, provide
-mining, plan, security, amended, period, programs, provide
+heading, plan, security, amended, period, programs, commission, provide, prior
+directors, plan, security, amended, period, programs, commission, provide, prior
+over, plan, security, period, programs, commission, provide, prior
+mining, plan, security, amended, period, programs, provide, prior
 measures, plan, programs
-contained, plan, security, amended, period, programs, commission, provide
-improvement, plan, security, amended, period, programs, commission, provide
+contained, plan, security, amended, period, programs, commission, provide, prior
+improvement, plan, security, amended, period, programs, commission, provide, prior
 budget, plan, security, period, commission, provide
-subsequent, plan, amended, period, programs, commission, provide
-taken, plan, commission, provide
-addition, plan, security, period, programs, commission, provide
-limited, plan, security, amended, period, programs, commission, provide
-subsections, plan, security, amended, period, programs, commission, provide
+subsequent, plan, amended, period, programs, commission, provide, prior
+taken, plan, commission, provide, prior
+addition, plan, security, period, programs, commission, provide, prior
+limited, plan, security, amended, period, programs, commission, provide, prior
+subsections, plan, security, amended, period, programs, commission, provide, prior
 finds, plan, security, period, programs, commission, provide
 need, plan, security, programs, provide
 activity, plan, security, period, programs, commission, provide
-place, plan, security, period, programs, commission, provide
+place, plan, security, period, programs, commission, provide, prior
 results, plan, amended, programs, provide
-obligation, plan, security, amended, period, programs, commission, provide
+obligation, plan, security, amended, period, programs, commission, provide, prior
 enter, plan, programs, provide
-excess, plan, period, provide
+excess, plan, period, provide, prior
 cooperative, plan, security, programs, provide
-disclosure, plan, period, programs, commission, provide
+disclosure, plan, period, programs, commission, provide, prior
 share, plan, period, provide
-procedure, plan, security, amended, programs, commission, provide
-both, plan, security, amended, period, programs, commission, provide
-holding, plan, period, provide
+procedure, plan, security, amended, programs, commission, provide, prior
+both, plan, security, amended, period, programs, commission, provide, prior
+holding, plan, period, provide, prior
 name, plan, programs, commission, provide
-airport, plan, security, amended, period, programs, commission, provide
+airport, plan, security, amended, period, programs, commission, provide, prior
 maintain, plan, security, programs, commission, provide
 response, plan, security, period, commission, provide
-rail, plan, security, period, programs, provide
-alaska, plan, security, amended, period, programs, commission, provide
-expiration, plan, amended, period, commission, provide
+rail, plan, security, period, programs, provide, prior
+alaska, plan, security, amended, period, programs, commission, provide, prior
+expiration, plan, amended, period, commission, provide, prior
 guidelines, plan, security, programs, commission, provide
-implement, plan, security, programs, commission, provide
-charges, plan, security, amended, period, programs, commission, provide
-reclamation, plan, security, amended, period, programs, commission, provide
-acquisition, plan, security, amended, period, programs, commission, provide
-record, plan, security, period, programs, commission, provide
+implement, plan, security, programs, commission, provide, prior
+charges, plan, security, amended, period, programs, commission, provide, prior
+reclamation, plan, security, amended, period, programs, commission, provide, prior
+acquisition, plan, security, amended, period, programs, commission, provide, prior
+record, plan, security, period, programs, commission, provide, prior
 carried, plan, security, amended, programs, commission, provide
 description, plan, programs, provide
 methods, plan, security, programs, provide
 practices, plan, security, programs, commission
 practicable, plan, security, period, programs, commission, provide
-second, plan, amended, period, programs, commission, provide
-affected, plan, security, amended, programs, commission, provide
+second, plan, amended, period, programs, commission, provide, prior
+affected, plan, security, amended, programs, commission, provide, prior
 capacity, plan, security, period, programs, commission, provide
 waiver, plan, period, commission, provide
-held, plan, amended, period, programs, commission, provide
-thereafter, plan, amended, period, programs, commission, provide
-certificate, plan, security, amended, period, programs, commission, provide
-transaction, plan, security, period, programs, commission, provide
-either, plan, security, amended, period, commission, provide
-portion, plan, security, period, programs, provide
+held, plan, amended, period, programs, commission, provide, prior
+thereafter, plan, amended, period, programs, commission, provide, prior
+certificate, plan, security, amended, period, programs, commission, provide, prior
+transaction, plan, security, period, programs, commission, provide, prior
+either, plan, security, amended, period, commission, provide, prior
+portion, plan, security, period, programs, provide, prior
 charge, plan, security, period, programs, provide
-status, plan, security, period, programs, commission, provide
-issuance, plan, period, commission, provide
-revision, plan, amended
-become, plan, security, amended, period, programs, commission, provide
-authorities, plan, security, period, programs, commission, provide
-analysis, plan, security, amended, period, programs, commission, provide
+status, plan, security, period, programs, commission, provide, prior
+issuance, plan, period, commission, provide, prior
+revision, plan, amended, prior
+become, plan, security, amended, period, programs, commission, provide, prior
+authorities, plan, security, period, programs, commission, provide, prior
+analysis, plan, security, amended, period, programs, commission, provide, prior
 finance, plan, security, amended, programs, commission, provide
-direct, plan, amended, period, programs, provide
+direct, plan, amended, period, programs, provide, prior
 evidence, plan, security, programs, commission, provide
 agent, plan, security, period, programs, commission, provide
-relevant, plan, security, period, commission, provide
-imposed, plan, amended, commission, provide
+relevant, plan, security, period, commission, provide, prior
+imposed, plan, amended, commission, provide, prior
 technologies, plan, security, programs
-filing, plan, security, period, programs, commission, provide
-aviation, plan, security, amended, programs, commission, provide
+filing, plan, security, period, programs, commission, provide, prior
+aviation, plan, security, amended, programs, commission, provide, prior
 committees, plan, security, programs, commission, provide
 disability, plan, period, programs
-decision, plan, security, amended, period, programs, commission, provide
+decision, plan, security, amended, period, programs, commission, provide, prior
 official, plan, security, programs, commission, provide
 developed, plan, security, period, programs, provide
-union, plan, security, amended, period, programs, commission, provide
+union, plan, security, amended, period, programs, commission, provide, prior
 they, plan, period, programs, commission, provide
-mineral, plan, amended, period, programs, commission, provide
+mineral, plan, amended, period, programs, commission, provide, prior
 responsibility, plan, security, commission, provide
 responsibilities, plan, security, amended, programs, commission, provide
 regional, plan, security, programs, commission, provide
-reason, plan, amended, period, commission, provide
-executed, plan, amended, programs, provide
+reason, plan, amended, period, commission, provide, prior
+executed, plan, amended, programs, provide, prior
 schedule, plan, amended, period, commission, provide
-requiring, plan, security, provide
-aircraft, plan, security, amended, period, programs, commission, provide
+requiring, plan, security, provide, prior
+aircraft, plan, security, amended, period, programs, commission, provide, prior
 consider, plan, security, programs, commission, provide
-continue, plan, commission, provide
-carriers, plan, security, amended, period, programs, commission, provide
-increased, plan, amended, period, provide
+continue, plan, commission, provide, prior
+carriers, plan, security, amended, period, programs, commission, provide, prior
+increased, plan, amended, period, provide, prior
 recipient, plan, security, period, provide
-extension, plan, security, period, programs, commission, provide
+extension, plan, security, period, programs, commission, provide, prior
 resolution, plan, amended, programs, provide
 changes, plan, provide
 factors, plan, security, commission, provide
-notification, plan, security, period, commission, provide
+notification, plan, security, period, commission, provide, prior
 companies, plan, security, programs, commission, provide
-receipt, plan, period, commission, provide
+receipt, plan, period, commission, provide, prior
 investigation, plan, security, programs, commission, provide
 interests, plan, security, programs, commission, provide
-immediately, plan, amended, period, provide
-said, plan, security, amended, period, programs, commission, provide
-publication, plan, security, period, commission, provide
-railroad, plan, security, period, programs, commission, provide
+immediately, plan, amended, period, provide, prior
+said, plan, security, amended, period, programs, commission, provide, prior
+publication, plan, security, period, commission, provide, prior
+railroad, plan, security, period, programs, commission, provide, prior
 orders, plan, security, programs, commission, provide
-above, plan, amended, period, provide
-acquired, plan, amended, programs, commission, provide
-event, plan, security, amended, period, programs, commission, provide
-granted, plan, security, amended, period, programs, commission, provide
+above, plan, amended, period, provide, prior
+acquired, plan, amended, programs, commission, provide, prior
+event, plan, security, amended, period, programs, commission, provide, prior
+granted, plan, security, amended, period, programs, commission, provide, prior
 identified, plan, amended, provide
-operator, plan, security, period, programs, commission, provide
-affairs, plan, security, amended, period, programs, commission, provide
+operator, plan, security, period, programs, commission, provide, prior
+affairs, plan, security, amended, period, programs, commission, provide, prior
 submission, plan, security, commission, provide
 force, plan, programs, commission, provide
-guarantee, plan, amended, period, programs, provide
+guarantee, plan, amended, period, programs, provide, prior
 petition, plan, security, commission, provide
 financing, plan, security, period, programs, commission, provide
 license, plan, security, period, programs, provide
 exemption, plan, security, period, programs, commission, provide
 transactions, plan, security, period, programs, commission
-payable, plan, period, programs, provide
+payable, plan, period, programs, provide, prior
 goals, plan, security, programs, provide
-appropriation, plan, security, programs
+appropriation, plan, security, programs, prior
 definition, plan, security, amended, period, programs, commission, provide
-advance, plan, security, period, programs, provide
-examination, plan, security, period, programs, commission, provide
+advance, plan, security, period, programs, provide, prior
+examination, plan, security, period, programs, commission, provide, prior
 list, plan, provide
-associations, plan, security, amended, period, programs, commission, provide
-rehabilitation, plan, amended, period, programs, provide
-governors, plan, security, amended, period, programs, commission, provide
+associations, plan, security, amended, period, programs, commission, provide, prior
+rehabilitation, plan, amended, period, programs, provide, prior
+governors, plan, security, amended, period, programs, commission, provide, prior
 permitted, plan, amended, programs, commission, provide
-places, plan, security, amended, period, programs, commission, provide
+places, plan, security, amended, period, programs, commission, provide, prior
 parties, plan, security, period, commission, provide
-file, plan, period, commission, provide
-mortgages, plan, security, amended, period, programs, provide
+file, plan, period, commission, provide, prior
+mortgages, plan, security, amended, period, programs, provide, prior
 passenger, plan, security, programs, commission, provide
 designation, plan, security, amended, period, commission, provide
-applies, plan, security, amended, period, programs, commission, provide
-word, plan, security, amended, period, programs, commission, provide
+applies, plan, security, amended, period, programs, commission, provide, prior
+word, plan, security, amended, period, programs, commission, provide, prior
 levels, plan, programs
-surface, plan, security, period, programs, provide
+surface, plan, security, period, programs, provide, prior
 thereto, plan, amended, programs, commission, provide
 copy, plan, security, provide
 matters, plan, security, programs, commission, provide
-extended, plan, amended, period, programs, provide
+extended, plan, amended, period, programs, provide, prior
 discretion, plan, commission, provide
-duty, plan, security, period, programs, commission, provide
-settlement, plan, amended, period, commission, provide
+duty, plan, security, period, programs, commission, provide, prior
+settlement, plan, amended, period, commission, provide, prior
 country, plan, security, period, programs, commission, provide
 supervision, plan, security, programs, commission, provide
 writing, plan, programs, commission, provide
 inspection, plan, security, period, programs, commission, provide
-deposits, plan, security, period, programs, commission, provide
+deposits, plan, security, period, programs, commission, provide, prior
 audit, plan, period, programs, commission, provide
 pilot, plan, period, programs, commission, provide
-location, plan, security, programs, provide
-modification, plan, security, period, programs, commission, provide
+location, plan, security, programs, provide, prior
+modification, plan, security, period, programs, commission, provide, prior
 improvements, plan, security, programs, commission, provide
 survey, plan, security, period, programs, commission, provide
 designate, plan, security, amended, programs, commission, provide
@@ -632,19 +632,19 @@ life, plan, period
 matter, plan, programs, commission, provide
 infrastructure, plan, security, programs, commission, provide
 branch, plan, security, period, commission, provide
-disposition, plan, security, amended, period, programs, commission, provide
+disposition, plan, security, amended, period, programs, commission, provide, prior
 reorganization, plan, provide
-exception, plan, security, amended, period, commission, provide
+exception, plan, security, amended, period, commission, provide, prior
 approve, plan, security, programs, commission, provide
-then, plan, amended, period, programs, commission, provide
+then, plan, amended, period, programs, commission, provide, prior
 receiver, plan, amended, period, commission, provide
-veterans, plan, security, amended, period, programs, commission, provide
+veterans, plan, security, amended, period, programs, commission, provide, prior
 objectives, plan, security, programs
 completion, plan, period, provide
-historical, plan, amended, commission, provide
+historical, plan, amended, commission, provide, prior
 borrower, plan, period, programs, commission, provide
 irrigation, plan, period, commission, provide
-restrictions, plan, amended, period, programs, commission, provide
+restrictions, plan, amended, period, programs, commission, provide, prior
 corporations, plan, amended, programs, provide
 counseling, plan, period, programs, provide
 leases, plan, programs, provide
@@ -666,66 +666,66 @@ airports, plan, security, programs, commission, provide
 operators, plan, security, period, programs, provide
 amtrak, plan, security, period, programs, commission, provide
 merger, plan, programs
-withdrawal, plan, period, provide
-veteran, plan, security, amended, period, programs, commission, provide
+withdrawal, plan, period, provide, prior
+veteran, plan, security, amended, period, programs, commission, provide, prior
 security, amended, programs, period, commission, housing, provide, including, appropriate, prior, energy, purposes, pursuant, requirements, individual, described, development, report, administrator, referred, means, regulations, required, transportation, subparagraph, amendments, board, available, authorized, years, sections, insurance, activities, research, applicable, order, case, administration, authority, within, text, welfare, funds, individuals, application, government, through, payment, care, inserted, necessary, related, system, except, department, congress, financial, time, grant, project, code, action, local, established, director, agencies, provision, corporation, upon, credit, bank, into, apply, will, later, grants, make, office, functions, business, standards, committee, include, effect, organization, eligible, lands, otherwise, days, percent, used, accordance, loan, during, interest, commerce, amounts, benefits, relating, review, defined, struck, area, extent, determined, secs, entity, payments, safety, transfer, carry, fund, only, contract, property, sept, costs, management, purpose, institution, first, agreement, facility, redesignated, clause, facilities, court, enactment, following, issued, company, education, cost, beginning, control, persons, determines, community, repealed, less, there, terms, sentence, securities, protection, banks, establish, data, private, basis, regulation, same, trade, procedures, projects, classification, enforcement, words, designated, medical, mortgage, those, banking, training, employees, president, members, approved, conditions, number, original, water, submit, short, determination, existing, policy, require, without, rules, additional, specified, thereof, follows, emergency, manner, technology, exceed, tables, support, providing, reasonable, land, months, conduct, civil, rule, request, unless, rate, insured, laws, appropriations, home, administrative, construction, take, study, district, whether, does, annual, covered, contracts, account, member, officer, association, requirement, based, were, against, enacted, resources, areas, foreign, compliance, reports, when, paid, certain, transferred, should, organizations, carrier, total, violation, employee, omitted, final, subsecs, institutions, entities, demonstration, ensure, carrying, motor, council, treatment, systems, representatives, attorney, performance, reserve, personnel, operation, quality, loans, compensation, establishment, special, prescribed, below, making, advisory, product, investment, standard, jurisdiction, sale, authorization, proposed, submitted, qualified, urban, commercial, vehicle, recommendations, source, receive, plans, received, capital, bureau, least, notwithstanding, executive, environmental, subtitle, determine, between, meet, meaning, savings, access, approval, duties, regarding, actions, unit, consultation, connection, implementation, issue, definitions, trust, deemed, statement, equipment, purchase, until, limitation, located, records, entitled, consistent, right, involved, economic, expenses, material, employment, treasury, participation, benefit, center, increase, depository, assessment, domestic, termination, develop, obligations, needs, criteria, value, party, opportunity, written, agreements, filed, lease, process, reference, penalty, form, fees, group, permit, respectively, defense, prescribe, officers, acts, evaluation, renumbered, also, included, maximum, result, funding, senate, directed, ending, risk, applications, because, claim, similar, interior, conducted, labor, centers, appointed, regulatory, farm, rates, further, patent, planning, deposit, exchange, claims, maintenance, change, market, forth, coordination, institute, operating, operations, known, considered, includes, level, principal, provides, assets, registration, comply, powers, limitations, comptroller, given, another, certification, availability, liability, consideration, eligibility, reduction, materials, proceeding, condition, products, specific, policies, production, minimum, educational, findings, stock, head, conservation, international, heading, directors, assist, over, mining, contained, improvement, budget, addition, participating, limited, distribution, subsections, finds, need, activity, regard, place, obligation, introductory, homeland, cooperative, procedure, both, airport, maintain, response, rail, alaska, guidelines, implement, charges, reclamation, vehicles, acquisition, record, carried, methods, practices, practicable, affected, capacity, certificate, transaction, either, portion, charge, status, become, authorities, analysis, finance, sources, evidence, agent, relevant, technologies, filing, aviation, expenditures, committees, cited, decision, official, developed, union, responsibility, responsibilities, regional, improve, current, requiring, aircraft, comprehensive, cooperation, consider, military, duty, item, departments, carriers, incurred, notification, affect, collection, extension, responsible, establishing, investigation, recipient, interests, factors, efficiency, using, affairs, promote, said, companies, orders, word, granted, governments, impact, operator, publication, event, license, submission, adequate, particular, identify, railroad, definition, participate, type, petition, appropriation, testing, transactions, exemption, financing, advance, goals, obtain, places, examination, governors, designation, effectiveness, matters, applies, parties, associations, industry, country, identification, copy, implementing, passenger, receives, mortgages, about, surface, supervision, inspection, miscellaneous, location, modification, veterans, deposits, environment, designate, improvements, effects, survey, disposition, issues, obtained, allocation, coordinate, uses, pipeline, infrastructure, inspector, branch, facilitate, exception, governmental, approve, objectives, officials, violations, agricultural, communications, exempt, completed, experience, sharing, oversight, authorize, travel, intelligence, strategy, enable, preparedness, transfers, function, sponsor, essential, elements, operators, traffic, airports, amtrak, accident, monitor, enhancement, veteran
 programs, security, amended, period, commission, provide, prior, including, appropriate, housing, purposes, pursuant, energy, requirements, report, individual, described, development, means, referred, regulations, required, amendments, administrator, transportation, board, subparagraph, available, authorized, years, sections, authority, case, order, activities, department, insurance, applicable, research, within, government, administration, funds, text, through, inserted, application, welfare, individuals, payment, care, code, necessary, related, congress, except, system, time, financial, action, established, project, director, grant, local, provision, corporation, agencies, upon, into, credit, apply, later, office, bank, will, make, functions, committee, effect, grants, business, include, organization, standards, days, eligible, otherwise, used, percent, accordance, during, lands, struck, relating, review, loan, interest, commerce, amounts, defined, benefits, sept, secs, property, extent, former, area, determined, contract, transfer, entity, only, references, payments, carry, fund, management, costs, first, safety, purpose, classified, agreement, institution, redesignated, court, facility, clause, following, enactment, facilities, words, generally, cost, persons, education, sentence, issued, beginning, repealed, members, company, determines, control, less, community, there, terms, same, protection, procedures, establish, basis, private, data, securities, designated, regulation, banks, training, those, president, member, trade, medical, projects, officer, enforcement, number, defense, employees, submit, policy, conditions, existing, approved, determination, mortgage, original, without, banking, short, follows, specified, appropriated, water, require, subpar, support, rules, additional, thereof, small, technology, manner, emergency, exceed, providing, consumer, conduct, tables, reasonable, months, civil, unless, request, district, land, laws, appropriations, construction, rule, take, rate, covered, organizations, reserve, administrative, whether, were, contracts, annual, foreign, home, insured, study, account, based, read, requirement, association, omitted, when, personnel, paid, enacted, reports, certain, resources, compliance, transferred, areas, employee, carrier, subtitle, should, subsecs, total, violation, ensure, prescribed, special, final, attorney, systems, representatives, performance, entities, institutions, treatment, house, demonstration, carrying, hospital, operation, council, technical, motor, month, compensation, jurisdiction, below, establishment, making, preceding, submitted, authorization, loans, sale, coverage, advisory, qualified, commercial, product, proposed, investment, officers, standard, receive, recommendations, prevention, least, received, vehicle, urban, bureau, plans, duties, notwithstanding, between, determine, capital, access, meaning, equipment, meet, approval, records, entitled, connection, regarding, unit, actions, codification, savings, consultation, implementation, definitions, issue, until, statement, limitation, purchase, deemed, trust, located, consistent, right, expenses, reporting, material, involved, employment, applicant, treasury, benefit, increase, center, participation, termination, assessment, value, prescribe, develop, obligations, needs, domestic, party, criteria, school, process, agreements, reference, renumbered, opportunity, acts, filed, respectively, lease, senate, being, form, permit, evaluation, included, fees, also, maximum, repeal, directed, similar, because, funding, rates, conducted, units, ending, claim, operations, risk, applications, maintenance, labor, forth, further, centers, claims, considered, regulatory, planning, interior, military, nothing, subpart, operating, includes, deposit, farm, market, coordination, patent, hearing, powers, another, assets, institute, level, provides, given, limitations, educational, certification, procedure, comply, eligibility, proceeding, materials, availability, comptroller, policies, registration, condition, liability, heading, acquisition, justice, reduction, international, products, over, award, failure, minimum, contained, directors, findings, formerly, assist, stock, both, conservation, addition, improvement, force, measures, place, distribution, activity, mining, subsections, subsequent, limited, homeland, introductory, duty, enter, results, obligation, finds, name, regard, need, disclosure, status, cooperative, maintain, record, registered, second, implement, description, charges, guidelines, carried, proceedings, held, alaska, full, airport, practicable, concerning, committees, vehicles, rail, practices, methods, authorities, evidence, hazardous, capacity, items, affected, reclamation, charge, direct, agent, thereafter, certificate, official, having, portion, paragraphs, analysis, transaction, initial, become, finance, disability, aviation, owned, technologies, item, decision, filing, interstate, expenditures, cited, executed, aircraft, money, they, practice, developed, responsibilities, departments, union, regional, alternative, major, carriers, consider, mineral, incurred, prevent, collection, extension, cooperation, responsible, establishing, served, resolution, representative, investigation, interests, delivery, behalf, efficiency, using, penalties, affairs, said, companies, orders, word, granted, governments, columbia, operator, joint, efforts, event, license, performed, particular, acquired, design, certified, railroad, greater, limit, definition, consent, substantial, subdivision, payable, principally, promulgated, guarantee, appropriation, expended, testing, transactions, most, exemption, financing, advance, significant, goals, obtain, containing, space, annually, consistency, places, examination, every, ownership, permitted, governors, effectiveness, test, priority, matters, applies, loss, taking, independent, associations, industry, country, rehabilitation, identification, recovery, concerned, implementing, passenger, thereto, mortgages, levels, prohibition, staff, surface, extended, perform, writing, pilot, supervision, inspection, matter, reduced, treated, operated, miscellaneous, location, audit, resulting, retirement, damages, awarded, modification, funded, veterans, deposits, operate, release, designate, applicability, improvements, clarity, terminate, contractor, survey, previous, voluntary, disposition, regulated, issues, obtained, allocation, coordinate, uses, exceptions, pipeline, whole, infrastructure, inspector, offered, outside, then, patents, enforce, nature, approve, possession, objectives, officials, violations, repayment, assigned, timely, pending, applicants, base, supplies, sales, restrictions, rulemaking, recipients, guaranteed, exempt, completed, prohibited, reform, appendix, borrower, sold, debt, comprises, corporations, experience, them, default, cash, counseling, employer, liable, arrangements, document, licensed, sharing, leases, transition, assignment, arising, derived, oversight, charged, critical, semicolon, duration, guard, authorize, applying, administering, installation, administered, appear, components, remedies, component, accept, preparedness, collect, transfers, adopted, station, region, allow, legislation, declaration, replacement, identifying, communication, certificates, forms, listed, course, contribution, waive, sites, mortgagor, purchased, purchaser, devices, extend, demand, performing, acquire, therefor, bill, structure, inconsistent, return, mortgagee, lending, recommendation, prepared, rating, proviso, occurs, organized, expertise, repair, advances, evaluations, long, commitment, incident, adopt, created, capabilities, implemented, outreach, cover, postal, initiative, incorporated, utilize, operators, maintaining, traffic, airports, decisions, revenues, statutes, bonds, amtrak, effort, citizens, allowance, noise, terrorism, surveys, judges, lessee, occupancy, registry, placed, prices, consisting, receipts, refer, waters, mean, claimant, users, instrument, merger, flight, boards, throughout, cease, customs, passengers, credits, structures, denial, retained, enterprises, restated, periodically, shelf, aeronautics, enhancement, withdrawn, cooperatives, leased, mexico, pertaining, complying, financed, secretaries, rightsofway, decides, charter, specifications, stability, indebtedness, database, satisfied, conveyed, highway, bridge, borrowers, taxation, awareness, incidental, closed, navigation, fiduciary, stockholders, reauthorization, restructuring, along, cargo, chapters, port, terminal, regulator, collective, track, veteran, acquisitions
-housing, security, amended, period, programs, commission, provide, prior
+housing, security, amended, period, programs, commission, provide, prior, including
 provide, security, amended, period, programs, commission, prior, including, appropriate, housing, purposes, pursuant, energy, requirements, report, individual, described, development, means, referred, regulations, required, amendments, administrator, transportation, board, subparagraph, available, authorized, years, sections, authority, case, order, activities, department, insurance, applicable, research, within, government, administration, funds, text, through, inserted, application, individuals, payment, care, code, necessary, related, congress, except, system, time, financial, action, established, project, director, grant, local, provision, corporation, agencies, upon, into, credit, apply, later, office, bank, will, make, functions, committee, effect, grants, business, include, organization, standards, days, eligible, otherwise, used, percent, accordance, during, lands, struck, relating, review, loan, interest, commerce, amounts, defined, benefits, sept, secs, property, extent, former, area, determined, contract, transfer, entity, only, references, payments, carry, fund, management, costs, first, safety, purpose, classified, agreement, institution, redesignated, court, facility, clause, following, enactment, facilities, words, generally, cost, persons, education, sentence, issued, beginning, repealed, members, company, determines, control, less, community, there, terms, same, protection, procedures, establish, basis, private, data, securities, designated, complete, regulation, banks, training, those, president, member, trade, medical, projects, classification, officer, enforcement, number, defense, employees, submit, policy, conditions, existing, approved, determination, mortgage, original, without, banking, follows, specified, appropriated, water, require, subpar, support, rules, additional, thereof, small, technology, manner, emergency, exceed, providing, consumer, conduct, tables, reasonable, months, civil, unless, request, district, land, laws, appropriations, construction, rule, take, rate, covered, does, organizations, reserve, administrative, whether, were, contracts, annual, foreign, home, insured, study, account, based, income, requirement, against, association, omitted, when, personnel, paid, enacted, reports, certain, resources, source, compliance, transferred, areas, employee, carrier, subtitle, should, subsecs, total, violation, where, ensure, prescribed, special, final, attorney, systems, representatives, performance, entities, family, institutions, treatment, demonstration, carrying, hospital, operation, council, technical, motor, month, compensation, jurisdiction, below, establishment, equal, making, quality, preceding, submitted, authorization, loans, sale, advisory, qualified, commercial, proposed, investment, officers, standard, receive, recommendations, executive, least, received, vehicle, bureau, plans, duties, notwithstanding, between, determine, capital, access, meaning, equipment, meet, approval, records, entitled, connection, regarding, unit, actions, codification, savings, consultation, implementation, definitions, issue, until, statement, limitation, purchase, deemed, trust, located, consistent, right, expenses, reporting, material, involved, indian, employment, applicant, revised, treasury, benefit, increase, center, participation, termination, assessment, value, written, prescribe, develop, obligations, needs, domestic, furnished, party, criteria, process, depository, agreements, commissioner, reference, renumbered, opportunity, acts, filed, respectively, lease, senate, percentage, being, form, permit, evaluation, result, included, penalty, fees, also, maximum, group, repeal, directed, appointed, similar, construed, because, receiving, funding, rates, conducted, units, ending, claim, operations, risk, change, applications, exchange, maintenance, labor, forth, further, centers, claims, considered, regulatory, planning, interior, military, nothing, among, subpart, operating, includes, deposit, farm, market, coordination, nonprofit, patent, hearing, known, powers, another, assets, institute, principal, level, primary, directly, provides, given, limitations, consideration, educational, certification, procedure, comply, eligibility, proceeding, materials, availability, comptroller, policies, registration, determining, condition, liability, heading, acquisition, reduction, head, international, over, production, specific, award, power, budget, failure, minimum, contained, directors, findings, formerly, assist, stock, both, taken, centum, addition, improvement, force, place, distribution, activity, mining, subsections, subsequent, limited, homeland, introductory, duty, participating, enter, results, obligation, finds, name, regard, excess, need, coal, judicial, disclosure, serve, status, cooperative, maintain, price, record, registered, entered, second, expiration, response, implement, holding, description, charges, share, guidelines, carried, proceedings, waiver, held, alaska, full, airport, practicable, concerning, committees, rail, associated, methods, authorities, evidence, legal, capacity, either, items, affected, reclamation, cause, charge, direct, agent, thereafter, certificate, official, having, portion, imposed, last, paragraphs, analysis, transaction, initial, become, issuance, relevant, sources, finance, aviation, owned, item, decision, filing, interstate, expenditures, cited, executed, aircraft, they, designed, reduce, responsibility, reason, developed, responsibilities, departments, current, schedule, union, changes, reflect, aggregate, regional, alternative, monthly, improve, requiring, carriers, consider, whom, cases, mineral, continue, increased, incurred, notification, affect, prevent, collection, extension, cooperation, responsible, establishing, served, resolution, engaged, tribal, representative, investigation, receipt, recipient, list, must, interests, appointment, acting, delivery, factors, behalf, assisted, above, using, penalties, affairs, promote, assistant, chairman, said, companies, orders, word, election, immediately, granted, governments, impact, operator, joint, meets, publication, event, identified, license, performed, submission, adequate, particular, address, meeting, acquired, design, identify, certified, railroad, agriculture, greater, limit, definition, participate, consent, payable, type, adjustment, petition, guarantee, reasonably, reimbursement, chief, remain, expended, testing, exemption, financing, advance, applied, goals, obtain, containing, exercise, annually, historical, consistency, places, examination, every, fair, ownership, contain, third, permitted, governors, designation, effectiveness, priority, matters, applies, loss, parties, supply, selection, single, could, published, developing, taking, independent, procurement, circumstances, associations, manufacturer, file, country, rehabilitation, outstanding, concerned, copy, implementing, passenger, thereto, sufficient, temporary, give, receives, mortgages, prohibition, publish, discretion, about, involving, staff, surface, extended, these, protect, perform, equivalent, writing, substantially, pilot, actual, supervision, inspection, settlement, notify, collected, basic, matter, reduced, treated, operated, location, accounting, audit, resulting, deems, modification, veterans, deposits, judgment, ability, operate, selected, release, designate, applicability, vested, conducting, separate, improvements, while, clarity, terminate, survey, assure, future, eliminate, determinations, disposition, regulated, issues, obtained, allocation, coordinate, present, whenever, uses, together, consult, pipeline, infrastructure, respecting, inspector, brought, needed, employed, branch, facilitate, possible, makes, reorganization, exception, subparagraphs, then, patents, solely, enforce, membership, nature, accounts, approve, prepare, offer, encourage, officials, mine, receiver, completion, repayment, authorizing, assigned, timely, scope, communications, offices, pending, applicants, currency, maintained, position, well, restrictions, rulemaking, comment, found, recipients, governing, exempt, previously, evaluate, affecting, completed, prohibited, owners, longer, borrower, sold, debt, irrigation, finding, appeal, corporations, experience, processing, default, counseling, employer, liable, document, agents, uniform, leases, improving, lieu, fails, derived, oversight, charged, instrumentality, requested, requires, participant, achieve, transmit, authorize, considers, travel, intelligence, proper, impose, administered, appear, exceeds, enable, however, contents, suspension, secretarys, copies, fully, mail, statements, accept, collect, transfers, adopted, requests, continued, permits, deposited, allow, function, constitute, assess, specify, proceeds, times, sponsor, proposal, identifying, forms, course, discharge, waive, promptly, mortgagor, purchased, purchaser, extend, estimate, furnish, prohibit, demand, acquire, administer, sell, foreclosure, return, exclusive, appoint, valid, lender, accepted, essential, mortgagee, removal, prepared, hold, obtaining, insure, seek, furnishing, preservation, allowed, engage, holder, secure, adopt, implemented, becomes, select, cover, existence, agreed, utilize, elements, operators, bring, traffic, delegate, airports, obligated, amtrak, jointly, allowance, disclose, lessee, seeking, credited, appraisal, create, continuation, reserves, submits, according, conveyance, agree, assessed, correct, refer, elect, recover, acceptance, claimant, retain, flight, cooperate, covering, accident, withdrawal, certify, satisfy, advise, granting, conform, inform, considerations, acceptable, involve, giving, supplement, begin, employ, certifies, decides, acquiring, reimburse, keep, notified, pension, veteran
-including, security, amended, period, programs, commission, provide, prior
-appropriate, security, amended, period, programs, commission, provide, prior
-prior, security, amended, period, programs, commission, provide, including, appropriate, housing, purposes, pursuant, energy, requirements, report, individual, described, development, means, referred, regulations, required, amendments, administrator, transportation, board, subparagraph, available, authorized, years, sections, authority, case, order, activities, department, insurance, applicable, research, within, government, administration, funds, text, through, inserted, application, individuals, payment, code, necessary, related, congress, except, system, time, financial, action, established, project, director, grant, local, provision, corporation, agencies, upon, into, credit, apply, later, office, bank, will, make, functions, committee, effect, grants, business, include, organization, standards, days, eligible, otherwise, used, percent, accordance, during, lands, struck, relating, review, loan, interest, commerce, amounts, defined, benefits, sept, secs, property, extent, former, area, determined, contract, transfer, entity, only, references, payments, carry, fund, management, costs, first, safety, purpose, classified, agreement, institution, redesignated, court, facility, clause, following, enactment, facilities, words, generally, cost, persons, education, sentence, issued, beginning, repealed, members, company, determines, control, less, there, terms, same, protection, procedures, establish, basis, private, designated, complete, regulation, banks, training, those, president, member, medical, projects, classification, officer, enforcement, number, defense, employees
-energy, security, amended, period, programs, commission, provide, prior
-purposes, security, amended, period, programs, commission, provide, prior
-requirements, security, amended, period, programs, commission, provide, prior
-individual, security, amended, period, programs, commission, provide, prior
-described, security, amended, period, programs, commission, provide, prior
-development, security, amended, period, programs, commission, provide, prior
-report, security, amended, period, programs, commission, provide, prior
-administrator, security, amended, period, programs, commission, provide, prior
-means, security, amended, period, programs, commission, provide, prior
-required, security, amended, period, programs, commission, provide, prior
-transportation, security, amended, period, programs, commission, provide, prior
+including, security, amended, period, programs, commission, provide, prior, appropriate, housing, purposes, pursuant, energy, requirements, report, individual, described, development, means, referred, regulations, required, amendments, administrator, transportation, board, subparagraph, available, authorized, years, sections, authority, case, order, activities, department, insurance, applicable, research, within, government, administration, funds, through, inserted, application, individuals, payment, care, code, necessary, related, congress, except, system, time, financial, action, established, project, director, grant, local, provision, corporation, agencies, upon, into, credit, apply, later, office, bank, will, make, functions, committee, effect, grants, business, include, organization, standards, days, eligible, otherwise, used, percent, accordance, during, lands, struck, relating, review, loan, interest, commerce, amounts, defined, benefits, sept, secs, property, extent, area, determined, contract, transfer, entity, only, references, payments, carry, fund, management, costs, first, safety, purpose, classified, agreement, institution, redesignated, court, facility, clause, following, enactment, facilities, words, generally, cost, persons, education, sentence, issued, beginning, repealed, members, company, determines, control, less, community, there, terms, same, protection, procedures, establish, basis, private, data, securities, designated, complete, regulation, banks, training, those, president, member, trade, medical, projects, classification, officer, enforcement, number, defense, employees, submit, policy, conditions, existing, approved, determination, mortgage, original, without, banking, follows, specified, appropriated, water, require
+appropriate, security, amended, period, programs, commission, provide, prior, including
+prior, security, amended, period, programs, commission, provide, including, appropriate, housing, purposes, pursuant, energy, requirements, report, individual, described, development, means, referred, regulations, required, amendments, administrator, transportation, board, subparagraph, available, authorized, years, sections, authority, case, order, activities, department, insurance, applicable, research, within, government, administration, funds, text, through, inserted, application, individuals, payment, code, necessary, related, congress, except, system, time, financial, action, established, project, director, grant, local, provision, corporation, agencies, upon, into, credit, apply, later, office, bank, will, make, functions, committee, effect, grants, business, include, organization, standards, days, eligible, otherwise, used, percent, accordance, during, lands, struck, relating, review, loan, interest, commerce, amounts, defined, benefits, sept, secs, property, extent, former, area, determined, contract, transfer, entity, only, references, payments, carry, fund, management, costs, first, safety, purpose, classified, agreement, institution, redesignated, court, facility, clause, following, enactment, facilities, words, generally, cost, persons, education, sentence, issued, beginning, repealed, members, company, determines, control, less, there, terms, same, protection, procedures, establish, basis, private, designated, complete, regulation, banks, training, those, president, member, medical, projects, classification, officer, enforcement, number, defense, employees, submit, policy, conditions, existing, approved, determination, mortgage, original, without, banking, short, follows, specified, appropriated, water, require, subpar, rules, additional, thereof, manner, emergency, exceed, providing, consumer, tables, reasonable, months, civil, unless, request, district, land, laws, appropriations, construction, rule, take, rate, covered, does, reserve, administrative, whether, were, contracts, annual, foreign, home, insured, study, account, based, read, requirement, against, association, omitted, when, paid, enacted, reports, certain, resources, source, compliance, transferred, employee, carrier, subtitle, subsecs, total, violation, ensure, prescribed, special, notes, final, attorney, systems, performance, institutions, carrying, operation, council, month, compensation, jurisdiction, below, establishment, making, preceding, submitted, authorization, loans, sale, qualified, commercial, proposed, standard, receive, recommendations, least, received, bureau, plans, duties, notwithstanding, between, determine, capital, meaning, equipment, meet, approval, records, entitled, connection, unit, actions, codification, savings, consultation, implementation, definitions, issue, until, statement, limitation, purchase, deemed, located, consistent, right, expenses, employment, applicant, revised, treasury, benefit, increase, termination, assessment, value, written, prescribe, obligations, party, depository, agreements, commissioner, reference, renumbered, acts, filed, respectively, lease, being, form, permit, result, included, penalty, fees, also, maximum, repeal, calendar, directed, appointed, similar, construed, because, receiving, funding, rates, ending, claim, operations, change, applications, maintenance, labor, forth, further, claims, considered, interior, nothing, among, deposit, coordination, pars, patent, hearing, known, powers, another, principal, level, provides, given, limitations, consideration, certification, procedure, comply, proceeding, availability, comptroller, registration, condition, liability, heading, acquisition, over, specific, power, revision, contained, directors, formerly, stock, both, taken, centum, conservation, addition, improvement, place, mining, subsections, subsequent, limited, introductory, duty, obligation, regard, excess, coal, disclosure, serve, status, record, second, expiration, implement, holding, charges, proceedings, held, alaska, full, airport, rail, authorities, either, affected, reclamation, direct, thereafter, certificate, having, portion, imposed, last, paragraphs, analysis, transaction, become, issuance, relevant, aviation, item, decision, filing, cited, executed, aircraft, reason, union, reflect, requiring, carriers, mineral, amending, continue, increased, incurred, notification, affect, extension, cooperation, receipt, above, using, penalties, affairs, said, word, immediately, granted, operator, large, publication, event, acquired, railroad, agriculture, limit, payable, guarantee, appropriation, remain, expended, advance, applied, exercise, historical, consistency, places, examination, every, third, governors, applies, published, associations, file, rehabilitation, receives, mortgages, involving, surface, extended, these, three, settlement, location, modification, veterans, deposits, applicability, terminate, disposition, obtained, exceptions, exception, then, patents, substituting, authorizing, pending, terminated, restrictions, exempt, entry, completed, prohibited, assignment, lieu, however, earlier, constitute, proceeds, xiii, listed, foreclosure, catchline, valid, proviso, advances, striking, reservation, since, withdrawal, inserting, corresponding, chapters, veteran
+energy, security, amended, period, programs, commission, provide, prior, including
+purposes, security, amended, period, programs, commission, provide, prior, including
+requirements, security, amended, period, programs, commission, provide, prior, including
+individual, security, amended, period, programs, commission, provide, prior, including
+described, security, amended, period, programs, commission, provide, prior, including
+development, security, amended, period, programs, commission, provide, prior, including
+report, security, amended, period, programs, commission, provide, prior, including
+administrator, security, amended, period, programs, commission, provide, prior, including
+means, security, amended, period, programs, commission, provide, prior, including
+required, security, amended, period, programs, commission, provide, prior, including
+transportation, security, amended, period, programs, commission, provide, prior, including
 welfare, security, programs, commission
-trade, security, amended, programs, commission, provide
-medical, security, programs, commission, provide, prior
+trade, security, amended, programs, commission, provide, including
+medical, security, programs, commission, provide, prior, including
 quality, security, provide
-source, security, amended, period, commission, provide
+source, security, amended, period, commission, provide, prior
 environmental, security
 economic, security
 domestic, security, amended, programs, provide
 opportunity, security, programs, commission, provide
 centers, security, programs, commission, provide
 institute, security, programs, commission, provide
-known, security, amended, provide
-principal, security, period, provide
+known, security, amended, provide, prior
+principal, security, period, provide, prior
 eligibility, security, period, programs, commission, provide
 reduction, security, amended, period, programs, provide
 products, security, programs
 educational, security, period, programs, provide
 head, security, commission, provide
-conservation, security, programs, commission
+conservation, security, programs, commission, prior
 assist, security, programs, commission, provide
 participating, security, period, commission, provide
-regard, security, programs, provide
+regard, security, programs, provide, prior
 homeland, security, programs, commission, provide
 vehicles, security, period, programs
 sources, security, provide
 expenditures, security, programs, provide
-cited, security, amended, programs, provide
+cited, security, amended, programs, provide, prior
 improve, security, provide
 current, security, period, provide
 comprehensive, security
-cooperation, security, programs, commission, provide
+cooperation, security, programs, commission, provide, prior
 military, security, programs, provide
 departments, security, programs, provide
-incurred, security, period, programs, provide
-affect, security, provide
+incurred, security, period, programs, provide, prior
+affect, security, provide, prior
 collection, security, programs, provide
 responsible, security, programs, commission, provide
 establishing, security, programs, provide
 efficiency, security, programs
-using, security, programs, provide
+using, security, programs, provide, prior
 promote, security, provide
 governments, security, programs, provide
 impact, security, provide
@@ -740,13 +740,13 @@ effectiveness, security, programs, provide
 industry, security, period, programs
 identification, security, programs
 implementing, security, programs, provide
-receives, security, provide
+receives, security, provide, prior
 about, security, provide
 miscellaneous, security, programs
 environment, security
 effects, security
 issues, security, programs, commission, provide
-obtained, security, programs, provide
+obtained, security, programs, provide, prior
 allocation, security, period, programs, provide
 coordinate, security, programs, provide
 uses, security, period, programs, provide
@@ -756,8 +756,8 @@ facilitate, security, provide
 governmental, security
 violations, security, programs
 agricultural, security
-exempt, security, programs, provide
-completed, security, programs, provide
+exempt, security, programs, provide, prior
+completed, security, programs, provide, prior
 experience, security, programs, provide
 sharing, security, programs
 authorize, security, programs, provide
@@ -775,45 +775,45 @@ accident, security, commission, provide
 monitor, security
 enhancement, security, programs
 small, amended, programs, provide
-read, amended, period, programs, commission
+read, amended, period, programs, commission, prior
 technical, amended, programs, provide
-revised, amended, provide
-formerly, amended, programs, commission, provide
-centum, amended, period, provide
-proceedings, amended, period, programs, commission, provide
+revised, amended, provide, prior
+formerly, amended, programs, commission, provide, prior
+centum, amended, period, provide, prior
+proceedings, amended, period, programs, commission, provide, prior
 items, amended, programs, provide
-last, amended, period, commission, provide
-reflect, amended, provide
-amending, amended
+last, amended, period, commission, provide, prior
+reflect, amended, provide, prior
+amending, amended, prior
 wherever, amended
-agriculture, amended, commission, provide
-applied, amended, provide
+agriculture, amended, commission, provide, prior
+applied, amended, provide, prior
 xviii, amended
-consistency, amended, period, programs, provide
+consistency, amended, period, programs, provide, prior
 contain, amended, provide
-third, amended, period, provide
-these, amended, provide
-three, amended, period
+third, amended, period, provide, prior
+these, amended, provide, prior
+three, amended, period, prior
 death, amended, period
-applicability, amended, programs, provide
+applicability, amended, programs, provide, prior
 clarity, amended, period, programs, commission, provide
 together, amended, provide
-exceptions, amended, programs
+exceptions, amended, programs, prior
 subpars, amended
-patents, amended, period, programs, commission, provide
+patents, amended, period, programs, commission, provide, prior
 accounts, amended, commission, provide
-authorizing, amended, provide
-terminated, amended, commission
+authorizing, amended, provide, prior
+terminated, amended, commission, prior
 currency, amended, commission, provide
 comprises, amended, programs
 language, amended
 changed, amended
 contents, amended, provide
-xiii, amended
+xiii, amended, prior
 titles, amended, commission
-catchline, amended
+catchline, amended, prior
 trademark, amended
-proviso, amended, period, programs
+proviso, amended, period, programs, prior
 entitlement, amended, period
 leasing, amended
 postal, amended, programs
@@ -826,20 +826,20 @@ conform, amended, provide
 withdrawn, amended, programs
 fourth, amended
 reenacted, amended
-chapters, amended, period, programs
-consumer, period, programs, commission, provide
+chapters, amended, period, programs, prior
+consumer, period, programs, commission, provide, prior
 family, period, provide
 equal, period, provide
 furnished, period, provide
 school, period, programs
 percentage, period, provide
-calendar, period, commission
+calendar, period, commission, prior
 primary, period, provide
-coal, period, provide
+coal, period, provide, prior
 judicial, period, commission, provide
-serve, period, commission, provide
+serve, period, commission, provide, prior
 price, period, provide
-full, period, programs, provide
+full, period, programs, provide, prior
 cause, period, commission, provide
 initial, period, programs, provide
 class, period
@@ -851,10 +851,10 @@ appointment, period, commission, provide
 election, period, provide
 joint, period, programs, commission, provide
 greater, period, programs, provide
-limit, period, programs, provide
+limit, period, programs, provide, prior
 adjustment, period, provide
 annually, period, programs, commission, provide
-every, period, programs, provide
+every, period, programs, provide, prior
 model, period
 periods, period
 manufacturer, period, provide
@@ -871,19 +871,19 @@ quarter, period
 present, period, provide
 repayment, period, programs, provide
 scope, period, provide
-pending, period, programs, provide
+pending, period, programs, provide, prior
 comment, period, provide
-entry, period
+entry, period, prior
 default, period, programs, provide
 five, period
 subclause, period
-assignment, period, programs
+assignment, period, programs, prior
 duration, period, programs
 shares, period
 remaining, period
-however, period, commission, provide
+however, period, commission, provide, prior
 suspension, period, provide
-earlier, period
+earlier, period, prior
 times, period, provide
 hours, period
 secured, period
@@ -897,7 +897,7 @@ immediate, period
 conveyance, period, provide
 academic, period
 receipts, period, programs
-since, period
+since, period, prior
 naval, period
 cease, period, programs
 commencement, period
@@ -915,7 +915,7 @@ award, programs, provide
 registered, programs, provide
 concerning, programs, commission, provide
 hazardous, programs
-having, programs, commission, provide
+having, programs, commission, provide, prior
 owned, programs, provide
 interstate, programs, commission, provide
 money, programs, commission
@@ -926,7 +926,7 @@ prevent, programs, provide
 representative, programs, commission, provide
 delivery, programs, provide
 behalf, programs, commission, provide
-penalties, programs, commission, provide
+penalties, programs, commission, provide, prior
 columbia, programs
 efforts, programs
 performed, programs, provide
@@ -937,7 +937,7 @@ substantial, programs
 subdivision, programs
 principally, programs
 promulgated, programs
-expended, programs, provide
+expended, programs, provide, prior
 most, programs
 significant, programs
 containing, programs, provide
@@ -960,7 +960,7 @@ awarded, programs
 funded, programs
 operate, programs, provide
 release, programs, provide
-terminate, programs, provide
+terminate, programs, provide, prior
 contractor, programs
 voluntary, programs
 regulated, programs, provide
@@ -979,7 +979,7 @@ sales, programs
 rulemaking, programs, provide
 recipients, programs, provide
 guaranteed, programs
-prohibited, programs, provide
+prohibited, programs, provide, prior
 appendix, programs
 sold, programs, provide
 debt, programs, provide
@@ -1015,7 +1015,7 @@ identifying, programs, provide
 communication, programs
 certificates, programs
 forms, programs, provide
-listed, programs
+listed, programs, prior
 contribution, programs
 waive, programs, provide
 sites, programs
@@ -1038,7 +1038,7 @@ occurs, programs
 organized, programs
 expertise, programs
 repair, programs
-advances, programs
+advances, programs, prior
 evaluations, programs
 long, programs
 commitment, programs
@@ -1123,7 +1123,7 @@ regulator, programs
 collective, programs
 track, programs
 acquisitions, programs
-among, commission, provide
+among, commission, provide, prior
 directly, commission, provide
 whom, commission, provide
 engaged, commission, provide
@@ -1132,8 +1132,8 @@ must, commission, provide
 acting, commission, provide
 assistant, commission, provide
 chairman, commission, provide
-exercise, commission, provide
-published, commission, provide
+exercise, commission, provide, prior
+published, commission, provide, prior
 notify, commission, provide
 collected, commission, provide
 judgment, commission, provide
@@ -1159,7 +1159,7 @@ designee, commission
 jointly, commission, provide
 where, provide
 indian, provide
-construed, provide
+construed, provide, prior
 nonprofit, provide
 determining, provide
 entered, provide
@@ -1176,7 +1176,7 @@ meeting, provide
 reasonably, provide
 reimbursement, provide
 chief, provide
-remain, provide
+remain, provide, prior
 fair, provide
 supply, provide
 selection, provide
@@ -1186,7 +1186,7 @@ developing, provide
 procurement, provide
 circumstances, provide
 give, provide
-involving, provide
+involving, provide, prior
 protect, provide
 equivalent, provide
 substantially, provide
@@ -1223,7 +1223,7 @@ appeal, provide
 processing, provide
 uniform, provide
 improving, provide
-lieu, provide
+lieu, provide, prior
 fails, provide
 requested, provide
 requires, provide
@@ -1241,18 +1241,18 @@ requests, provide
 continued, provide
 permits, provide
 deposited, provide
-constitute, provide
+constitute, provide, prior
 assess, provide
 specify, provide
-proceeds, provide
+proceeds, provide, prior
 discharge, provide
 estimate, provide
 furnish, provide
 prohibit, provide
 administer, provide
 sell, provide
-foreclosure, provide
-valid, provide
+foreclosure, provide, prior
+valid, provide, prior
 lender, provide
 accepted, provide
 removal, provide
@@ -1306,3 +1306,9 @@ acquiring, provide
 reimburse, provide
 keep, provide
 notified, provide
+large, prior
+substituting, prior
+striking, prior
+reservation, prior
+inserting, prior
+corresponding, prior
