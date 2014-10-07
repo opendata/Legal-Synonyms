@@ -4,21 +4,19 @@ The script in this directory of the repository is a purpose built script which i
 
 ## Overview
 
-There are four steps required to process a large corpus of text into a useable synonyms file.
+There are three steps required to process a large corpus of text into a useable synonyms file.
 
 **Step One** parses the text into word counts and into parts of speech arcs. The script uses Ruby's primary natural language processing (NLP) library, [Treat](https://github.com/louismullie/treat) to parse text into its parts of speech. The script, in step one, is given a directory of text files. It reads the files one by one, extracts out the stop words, counts all the words, then chunks the text into trigrams which are then processed using Treat. These results are written out to text files in a created `results` directory of the directory of text files which is provided to the script in step one.
 
-**Step Two** collates the resulting arcs into a postgres database. The text files in the `results/arcs` directory are collated into a singular arcs table in a `legal-syn` postgres database. On any significant corpus of documents, most computers will not have enough memory to sufficiently process the word arcs without using a database. Postgres, as a FOSS database, was chosen as the backbone of this collation exercise.
+**Step Two** calculates the dice coefficient of the top 4000 words (by word count) in the arcs database and writes the results into a `sim` table in the database.
 
-**Step Three** calculates the dice coefficient of the top 4000 words (by word count) in the arcs database and writes the results into a `sim` table in the database.
+**Step Three** queries the sim table to find all word pairs about a given dice coefficient and writes those to a `synonyms.txt` file.
 
-**Step Four** queries the sim table to find all word pairs about a given dice coefficient and writes those to a `synonyms.txt` file.
-
-Each of these four steps takes a great deal of time to process using the script as it is currently set up.
+Each of these three steps takes a great deal of time to process using the script as it is currently set up.
 
 ## Installation
 
-To use this script, Ruby, MongoDB, Redis, and PostgresDB are required. When ruby is installed, clone this repository.
+To use this script, Ruby and PostgresDB are required. When ruby is installed, clone this repository.
 
 Install the required dependencies using:
 
@@ -53,7 +51,7 @@ Then you are ready to begin stepping through your corpus of documents.
 To run step one on your corpus, type the following command:
 
 ```bash
-ruby ./build_dict.rb --step-one {{DIRECTORY}}
+ruby ./build_dict.rb --step-one {{DIRECTORY}} {{POSTGRES_USER}}:{{POSTGRES_PASS}}
 ```
 
 Before running the command make sure that you have the JAVA_HOME environmental variable set as well as the Redis server running.
@@ -69,13 +67,13 @@ Before running the command make sure that your postgres has a database named `le
 To run step three on your corpus, type the following command:
 
 ```bash
-ruby ./build_dict.rb --step-three {{DIRECTORY}} {{POSTGRES_USER}}:{{POSTGRES_PASS}}
+ruby ./build_dict.rb --step-three {{MIN_DICE_COEFFICIENT}} {{OUTPUT_SYN_FILE}} {{POSTGRES_USER}}:{{POSTGRES_PASS}}
 ```
 
-To run step four on your corpus, type the following command:
+If you wish to run the whole process (which, be forewarned, could take weeks) then type the following command:
 
 ```bash
-ruby ./build_dict.rb --step-four {{MIN_DICE_COEFFICIENT}} {{OUTPUT_SYN_FILE}} {{POSTGRES_USER}}:{{POSTGRES_PASS}}
+ruby ./build_dict.rb --all-steps {{DIRECTORY}} {{MIN_DICE_COEFFICIENT}} {{OUTPUT_SYN_FILE}} {{POSTGRES_USER}}:{{POSTGRES_PASS}}
 ```
 
 ## Challenges
